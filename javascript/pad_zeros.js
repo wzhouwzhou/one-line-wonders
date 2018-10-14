@@ -1,0 +1,1 @@
+function pad(v){return ('0'+v).substr(-2);} //so for example pad(8) = 08.
