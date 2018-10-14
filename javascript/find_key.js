@@ -1,0 +1,1 @@
+const findKey = (fn, obj) => Object.keys(obj).find(key => fn(obj[key]));
