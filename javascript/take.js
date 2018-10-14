@@ -1,0 +1,1 @@
+const take = (number, array) => array.slice(0, number);

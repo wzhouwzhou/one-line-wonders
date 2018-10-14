@@ -8,3 +8,8 @@ Name: [Abigail Arias](https://github.com/bgail)
 Place: Salt Lake City, Utah, USA
 Coding Experience: Java, Python, Swift, Javascript, HTML, CSS. Worked on iOS Development, Flask, Angular 5+ and ReactJS. 
 Email: mabigail1123@gmail.com
+
+Name: [Shawn Seymour](https://github.com/devshawn)
+Place: Minneapolis, Minnesota, USA
+Coding Experience: Javascript, Node, React, Redux, Java, Groovy, Spring, Docker
+Email: shawn+hello@devshawn.com
