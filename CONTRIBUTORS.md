@@ -13,3 +13,8 @@ Name: [Adeojo Emmanuel](https://github.com/adeojoemmanuel)
 Place: kwarastate , Nigeria
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. 
 Email: emmanuel.adeojo.ibk@gmail.com
+
+Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
+Place: Barranquilla, Atlantico, Colombia</br>
+Coding Experience: Java, Python, R, MatLab, and More.</br>
+Email: joao.racedo@gmail.com</br>
