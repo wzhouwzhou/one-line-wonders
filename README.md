@@ -26,7 +26,7 @@ PRs marked as spam will not be counted towards 5 PRs in the month of October for
     Coding Experience: Which programming languages do you know? What projects have you/do you worked on?</br>
     Email: name@example.com</br>
 
-5. Add your one-line program's files
+5. Add your one-line program's files. If a folder for your code's language does not exist, feel free to create it.
 6. Commit and push `git add .; git commit -m "commit message"; git push origin branch-name;`
 7. Create a new Pull Request from your fork
   - Click on the New Pull Request button located near the top of your repository.
