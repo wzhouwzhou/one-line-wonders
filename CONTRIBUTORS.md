@@ -8,3 +8,8 @@ Name: [Abigail Arias](https://github.com/bgail)
 Place: Salt Lake City, Utah, USA
 Coding Experience: Java, Python, Swift, Javascript, HTML, CSS. Worked on iOS Development, Flask, Angular 5+ and ReactJS. 
 Email: mabigail1123@gmail.com
+
+Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
+Place: Barranquilla, Atlantico, Colombia</br>
+Coding Experience: Java, Python, R, MatLab, and More.</br>
+Email: joao.racedo@gmail.com</br>
