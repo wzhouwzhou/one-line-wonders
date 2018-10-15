@@ -1,6 +1,6 @@
 # One line wonders
 A collection of one-line programs in various languages, performing various tasks.
-**"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow.
+**"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow (i.e. no using ; instead of a new line and "minifying" it to be one line).
 
 ### Why?
 Have some fun with coding every once in a while, and see how you can abuse the semantics of a language.
