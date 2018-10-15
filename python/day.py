@@ -1,0 +1,1 @@
+print("Monday" if datetime.datetime.today().weekday() == 0 else "Tuesday" if datetime.datetime.today().weekday() == 1 else "Wednesday" if datetime.datetime.today().weekday() == 2 else "Thursday" if datetime.datetime.today().weekday() == 3 else "Friday" if datetime.datetime.today().weekday() == 4 else "Saturday" if datetime.datetime.today().weekday() == 5 else "Sunday")
