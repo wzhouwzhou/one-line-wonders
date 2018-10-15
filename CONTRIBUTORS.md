@@ -1,3 +1,8 @@
+Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+Place: USA<br/>
+Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
+Email: kannagikazuko@gmail.com<br/>
+
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
