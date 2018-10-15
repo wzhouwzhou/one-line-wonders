@@ -67,3 +67,8 @@ Name: [Nikola](https://github.com/vr1e)<br/>
 Place: Serbia<br/>
 Coding Experience: Javascript, Ruby on Rails<br/>
 Email: vrllee@gmail.com<br/>
+
+Name: [Sareesh Vattian](https://github.com/sareeshv)<br/>
+Place: CA, USA<br/>
+Coding Experience: Javascript, Angular, AngularJS, EmberJS<br/>
+Email: sareeshhere@gmail.com<br/>
