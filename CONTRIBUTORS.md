@@ -1,4 +1,4 @@
-Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
 Place: USA<br/>
 Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
 Email: kannagikazuko@gmail.com<br/>
@@ -53,7 +53,22 @@ Place: Jaipur, Rajasthan, India</br>
 Coding Experience: Javascript, PHP, C, C++</br>
 Email: mannuanamaysaxena@gmail.com</br>
 
-Name: [Sareesh Vattian](https://github.com/sareeshv)
-Place: CA, USA
-Coding Experience: Javascript, Angular, AngularJS, EmberJS
-Email: sareeshhere@gmail.com
+Name: [Veena Ghorakavi](https://github.com/vghorakavi)</br>
+Place: United States of America (Moving to Canada)</br>
+Coding Experience: C, C++, Java, Haskell, Python, Javascript, PowerShell, R</br>
+Email: vghorakavi@gmail.com</br>
+
+Name: [Yulius](https://github.com/yyoel)</br>
+Place: Jakarta,Indonesia</br>
+Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
+Email: yoelyulius@gmail.com</br>
+
+Name: [Nikola](https://github.com/vr1e)<br/>
+Place: Serbia<br/>
+Coding Experience: Javascript, Ruby on Rails<br/>
+Email: vrllee@gmail.com<br/>
+
+Name: [Sareesh Vattian](https://github.com/sareeshv)<br/>
+Place: CA, USA<br/>
+Coding Experience: Javascript, Angular, AngularJS, EmberJS<br/>
+Email: sareeshhere@gmail.com<br/>
