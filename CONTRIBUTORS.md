@@ -3,6 +3,11 @@ Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
 Email: wzhouwzhou@gmail.com</br>
 
+Name: [Shawn Flores](https://github.com/Priultimus)</br>
+Place: Ottawa, Ontario, Canada</br>
+Coding Experience: Software Enginner, System Administrator, Software development in: Python, NodeJS, Java, HTML/CSS</br>
+Email: shawnflores87@gmail.com</br>
+
 Name: [Abigail Arias](https://github.com/bgail)</br>
 Place: Salt Lake City, Utah, USA</br>
 Coding Experience: Java, Python, Swift, Javascript, HTML, CSS. Worked on iOS Development, Flask, Angular 5+ and ReactJS. </br>
