@@ -32,3 +32,8 @@ Name: [Earvin Gemenez](https://github.com/earvingemenez)</br>
 Place: Davao City, Philippines</br>
 Coding Experience: Python, Django, AngularJS, Elixir, Phoenix</br>
 Email: earvin@swiftkind.com</br>
+
+Name: [Tom Stein](https://github.com/ScholliYT)</br>
+Place: Dülmen, Germany</br>
+Coding Experience: Python, C#, Flutter, Arduino</br>
+Email: tom@fantapptic.me</br>
