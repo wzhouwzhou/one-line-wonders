@@ -52,3 +52,8 @@ Name: [Anamay Saxena](https://github.com/saxenanamay)</br>
 Place: Jaipur, Rajasthan, India</br>
 Coding Experience: Javascript, PHP, C, C++</br>
 Email: mannuanamaysaxena@gmail.com</br>
+
+Name: [Veena Ghorakavi](https://github.com/vghorakavi)</br>
+Place: United States of America (Moving to Canada)</br>
+Coding Experience: C, C++, Java, Haskell, Python, Javascript, PowerShell, R</br>
+Email: vghorakavi@gmail.com</br>
