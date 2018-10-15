@@ -47,3 +47,8 @@ Name: [Jacob Roush](https://github.com/jjroush)</br>
 Place: Ames, Iowa</br>
 Coding Experience: Javascript, PHP, Java</br>
 Email: jacob@roush.io</br>
+
+Name: [Anamay Saxena](https://github.com/saxenanamay)</br>
+Place: Jaipur, Rajasthan, India</br>
+Coding Experience: Javascript, PHP, C, C++</br>
+Email: mannuanamaysaxena@gmail.com</br>
