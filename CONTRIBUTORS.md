@@ -62,3 +62,8 @@ Name: [Yulius](https://github.com/yyoel)</br>
 Place: Jakarta,Indonesia</br>
 Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
 Email: yoelyulius@gmail.com</br>
+
+Name: [Erick Surya Dinata](https://github.com/proesd)
+Place: Surabaya,Indonesia
+Coding Experience: PHP, Javascript, C++, Python
+Email: ericksuryadinata@gmail.com
