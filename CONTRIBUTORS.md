@@ -1,4 +1,4 @@
-Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
 Place: USA<br/>
 Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
 Email: kannagikazuko@gmail.com<br/>
@@ -57,3 +57,8 @@ Name: [Veena Ghorakavi](https://github.com/vghorakavi)</br>
 Place: United States of America (Moving to Canada)</br>
 Coding Experience: C, C++, Java, Haskell, Python, Javascript, PowerShell, R</br>
 Email: vghorakavi@gmail.com</br>
+
+Name: [Yulius](https://github.com/yyoel)</br>
+Place: Jakarta,Indonesia</br>
+Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
+Email: yoelyulius@gmail.com</br>
