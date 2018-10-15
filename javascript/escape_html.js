@@ -1,1 +1,1 @@
-const escapeHTML = (text) =>  text.replace(/[<>&"]/g, function(character) {  return {'<': '&lt;', '>': '&gt;','&': '&amp;', '"': '&quot;'}[character];  }); 
+const escapeHTML = (text) =>  text.replace(/[<>&"]/g, character => ({'<': '&lt;', '>': '&gt;','&': '&amp;', '"': '&quot;'})[character]); 
