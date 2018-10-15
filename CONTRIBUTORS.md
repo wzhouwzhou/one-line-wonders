@@ -42,3 +42,8 @@ Name: [Tom Stein](https://github.com/ScholliYT)</br>
 Place: Dülmen, Germany</br>
 Coding Experience: Python, C#, Flutter, Arduino</br>
 Email: tom@fantapptic.me</br>
+
+Name: [Jacob Roush](https://github.com/jjroush)</br>
+Place: Ames, Iowa</br>
+Coding Experience: Javascript, PHP, Java</br>
+Email: jacob@roush.io</br>
