@@ -27,3 +27,8 @@ Name: [Shawn Seymour](https://github.com/devshawn)</br>
 Place: Minneapolis, Minnesota, USA</br>
 Coding Experience: Javascript, Node, React, Redux, Java, Groovy, Spring, Docker</br>
 Email: shawn+hello@devshawn.com</br>
+
+Name: [Earvin Gemenez](https://github.com/earvingemenez)</br>
+Place: Davao City, Philippines</br>
+Coding Experience: Python, Django, AngularJS, Elixir, Phoenix</br>
+Email: earvin@swiftkind.com</br>
