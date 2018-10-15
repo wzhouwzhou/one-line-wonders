@@ -63,7 +63,12 @@ Place: Jakarta,Indonesia</br>
 Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
 Email: yoelyulius@gmail.com</br>
 
-Name: [Erick Surya Dinata](https://github.com/proesd)
-Place: Surabaya,Indonesia
-Coding Experience: PHP, Javascript, C++, Python
-Email: ericksuryadinata@gmail.com
+Name: [Erick Surya Dinata](https://github.com/proesd)<br/>
+Place: Surabaya,Indonesia<br/>
+Coding Experience: PHP, Javascript, C++, Python<br/>
+Email: ericksuryadinata@gmail.com<br/>
+
+Name: [Nikola](https://github.com/vr1e)<br/>
+Place: Serbia<br/>
+Coding Experience: Javascript, Ruby on Rails<br/>
+Email: vrllee@gmail.com<br/>
