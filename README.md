@@ -1,12 +1,12 @@
 # One line wonders
 A collection of one-line programs in various languages, performing various tasks.
-**"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow.
+**"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow (i.e. no using ; instead of a new line and "minifying" it to be one line).
 
 ### Why?
 Have some fun with coding every once in a while, and see how you can abuse the semantics of a language.
 
 ### Contributing
-Anyone can contribute to this repo by opening a PR, your contribution will be open-source on Github.
+Anyone can contribute to this repo by opening a PR, your contribution will be open-source on Github. Don't know what to make? Try coding something that logs "Hello, world!" to the console!
 
 ### Hacktoberfest
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) together with a diverse community of developers from around the world!
