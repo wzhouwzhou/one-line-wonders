@@ -62,3 +62,8 @@ Name: [Yulius](https://github.com/yyoel)</br>
 Place: Jakarta,Indonesia</br>
 Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
 Email: yoelyulius@gmail.com</br>
+
+Name: [Nikola](https://github.com/vr1e)<br/>
+Place: Serbia<br/>
+Coding Experience: Javascript, Ruby on Rails<br/>
+Email: vrllee@gmail.com<br/>
