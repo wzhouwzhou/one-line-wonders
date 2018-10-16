@@ -77,3 +77,8 @@ Name: [Sareesh Vattian](https://github.com/sareeshv)<br/>
 Place: CA, USA<br/>
 Coding Experience: Javascript, Angular, AngularJS, EmberJS<br/>
 Email: sareeshhere@gmail.com<br/>
+
+Name: [John Bramley](https://github.com/bramleyjl)</br>
+Place: VA, USA</br>
+Coding Experience: Javascript, PHP</br>
+Email: bramleyjl@gmail.com</br>
