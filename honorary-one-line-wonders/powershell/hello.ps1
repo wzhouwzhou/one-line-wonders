@@ -1,1 +1,1 @@
-$command = Write-Host "Please enter your name..." ; $inputName = Read-Host ; while(!$inputName){ $inputName = Read-Host } echo "Hello World and Hello $inputName"
+do{$Name = Read-Host 'Please input name...'}while(!$Name -or [string]::IsNullOrWhiteSpace($Name)) (Write-Host 'Hello World and Hello ' -NoNewline) + $Name + ' :)'
