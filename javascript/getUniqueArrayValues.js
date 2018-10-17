@@ -1,0 +1,1 @@
+const getUniqueArrayValues = (arr) => arr.reduce((arr, val) =>  arr.includes(val)? arr: [...arr, val], []);
