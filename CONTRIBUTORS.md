@@ -82,3 +82,8 @@ Name: [John Bramley](https://github.com/bramleyjl)</br>
 Place: VA, USA</br>
 Coding Experience: Javascript, PHP</br>
 Email: bramleyjl@gmail.com</br>
+
+Name: [Niral Pokal](https://github.com/niralpokal)</br>
+Place: CA, USA</br>
+Coding Experience: Javascript, Node.JS, Angular, AngularJS, React</br>
+Email: niralpokal@live.com</br>
