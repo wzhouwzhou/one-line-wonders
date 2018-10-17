@@ -1,0 +1,1 @@
+import secrets, string; "".join(secrets.choice(string.ascii_letters + string.digits) for i in range(16))
