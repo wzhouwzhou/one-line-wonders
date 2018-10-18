@@ -92,3 +92,8 @@ Name: [Austin Kregel](https://github.com/austinkregel)<br/>
 Place: MI, USA<br/>
 Coding Expereince: JavaScript/NodeJS, PHP, Python, Java, C#, C/C++<br/>
 Email: github@austinkregel.com<br/>
+
+Name: [Matt Sandy](https://github.com/MattSandy)
+Place: Minneapolis, MN
+Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.
+Email: git@matt.mn
