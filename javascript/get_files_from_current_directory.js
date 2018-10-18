@@ -1,0 +1,1 @@
+const recurseFileFinder = (dir) => require('fs').statSync(dir).isDirectory() ? require('fs').readdirSync(dir).map(file => recurseFileFinder(require('path').join(dir, file))) : dir; console.log(recurseFileFinder(process.cwd()))
