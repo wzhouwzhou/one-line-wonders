@@ -97,3 +97,8 @@ Name: [Matt Sandy](https://github.com/MattSandy)
 Place: Minneapolis, MN
 Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.
 Email: git@matt.mn
+
+Name: [Nils](https://github.com/Cyclenerd)<br/>
+Place: Hamburg, Germany<br/>
+Coding Experience: Perl<br/>
+Email: please-see@nkn-it.de<br/>
