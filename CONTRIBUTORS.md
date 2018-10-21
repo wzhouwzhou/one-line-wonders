@@ -1,4 +1,4 @@
-﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
 Place: USA<br/>
 Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
 Email: kannagikazuko@gmail.com<br/>
@@ -97,6 +97,11 @@ Name: [Matt Sandy](https://github.com/MattSandy)
 Place: Minneapolis, MN
 Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.
 Email: git@matt.mn
+
+Name: [Nils](https://github.com/Cyclenerd)<br/>
+Place: Hamburg, Germany<br/>
+Coding Experience: Perl<br/>
+Email: please-see@nkn-it.de<br/>
 
 Name: [Matt Chelen](https://github.com/mattchuranu)</br>
 Place: SC, USA</br>
