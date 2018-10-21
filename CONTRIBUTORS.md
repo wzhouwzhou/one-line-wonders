@@ -97,3 +97,8 @@ Name: [Matt Sandy](https://github.com/MattSandy)
 Place: Minneapolis, MN
 Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.
 Email: git@matt.mn
+
+Name: [Matt Chelen](https://github.com/mattchuranu)</br>
+Place: SC, USA</br>
+Coding Experience: Hobbyist programmer that has done work in ActionScript, C, GameMaker Language, Haxe, Java, JavaScript, Nim, Perl 6, and PHP.
+Email: mattchelen@gmail.com
