@@ -1,1 +1,1 @@
-const isOdd = n => n & 1
+const isOdd = n => !!(n & 1)
