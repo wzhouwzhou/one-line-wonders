@@ -93,10 +93,10 @@ Place: MI, USA<br/>
 Coding Expereince: JavaScript/NodeJS, PHP, Python, Java, C#, C/C++<br/>
 Email: github@austinkregel.com<br/>
 
-Name: [Matt Sandy](https://github.com/MattSandy)
-Place: Minneapolis, MN
-Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.
-Email: git@matt.mn
+Name: [Matt Sandy](https://github.com/MattSandy)<br/>
+Place: Minneapolis, MN<br/>
+Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.<br/>
+Email: git@matt.mn<br/>
 
 Name: [Nils](https://github.com/Cyclenerd)<br/>
 Place: Hamburg, Germany<br/>
@@ -105,5 +105,11 @@ Email: please-see@nkn-it.de<br/>
 
 Name: [Matt Chelen](https://github.com/mattchuranu)</br>
 Place: SC, USA</br>
-Coding Experience: Hobbyist programmer that has done work in ActionScript, C, GameMaker Language, Haxe, Java, JavaScript, Nim, Perl 6, and PHP.
+Coding Experience: Hobbyist programmer that has done work in ActionScript, C, GameMaker Language, Haxe, Java, JavaScript, Nim, Perl 6, and PHP.<br/>
 Email: matt@mattchuranu.xyz<br/>
+
+Name: [Jack Kavanagh](https://github.com/jackkav)<br/>
+Place: Amsterdam<br/>
+Coding Experience: Web developer(React), Hybrid mobile developer(React Native, Cordova)<br/>
+Programming Languages: Javascript and C#<br/>
+Email: git@matt.mn<br/>
