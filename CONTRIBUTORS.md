@@ -102,8 +102,3 @@ Name: [Nils](https://github.com/Cyclenerd)<br/>
 Place: Hamburg, Germany<br/>
 Coding Experience: Perl<br/>
 Email: please-see@nkn-it.de<br/>
-
-Name: [Matt Chelen](https://github.com/mattchuranu)</br>
-Place: SC, USA</br>
-Coding Experience: Hobbyist programmer that has done work in ActionScript, C, GameMaker Language, Haxe, Java, JavaScript, Nim, Perl 6, and PHP.
-Email: matt@mattchuranu.xyz<br/>
