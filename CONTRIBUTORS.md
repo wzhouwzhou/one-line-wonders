@@ -102,3 +102,9 @@ Name: [Nils](https://github.com/Cyclenerd)<br/>
 Place: Hamburg, Germany<br/>
 Coding Experience: Perl<br/>
 Email: please-see@nkn-it.de<br/>
+
+Name: [Jack Kavanagh](https://github.com/jackkav)
+Place: Amsterdam
+Coding Experience: Web developer(React), Hybrid mobile developer(React Native, Cordova)
+Programming Languages: Javascript and C#
+Email: git@matt.mn
