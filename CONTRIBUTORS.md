@@ -118,3 +118,8 @@ Name: [Armaan McLeod](https://github.com/OpticGenius)<br/>
 Place: Melbourne, Australia<br/>
 Coding Experience: Python, C, C#, Java and some web stuff<br/>
 Email: opticgenius@hotmail.com<br/>
+
+Name: [Çağatay Yücelen](https://github.com/cagatayyucelen)<br/>
+Place: Istanbul, Turkey<br/>
+Coding Experience: C, Go :heart_eyes:, Javascript, NodeJS, React Native, Embedded Systems(STM32)<br/>
+Email: cagatayyucelen@gmail.com<br/>
