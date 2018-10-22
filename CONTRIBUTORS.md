@@ -113,3 +113,8 @@ Place: Amsterdam<br/>
 Coding Experience: Web developer(React), Hybrid mobile developer(React Native, Cordova)<br/>
 Programming Languages: Javascript and C#<br/>
 Email: git@matt.mn<br/>
+
+Name: [Armaan McLeod](https://github.com/OpticGenius)<br/>
+Place: Melbourne, Australia<br/>
+Coding Experience: Python, C, C#, Java and some web stuff<br/>
+Email: opticgenius@hotmail.com<br/>
