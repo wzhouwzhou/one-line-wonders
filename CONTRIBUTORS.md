@@ -124,6 +124,11 @@ Place: Istanbul, Turkey<br/>
 Coding Experience: C, Go :heart_eyes:, Javascript, NodeJS, React Native, Embedded Systems(STM32)<br/>
 Email: cagatayyucelen@gmail.com<br/>
 
+Name: [Gabriel Fernandes](https://github.com/gafeol)<br/>
+Place: São Paulo, Brazil<br/>
+Coding Experience: C, C++, Java<br/>
+Email: gabriel5.oliveira@usp.br<br/>
+
 Name: [Ng Wei How](https://github.com/ngweihow)</br>
 Place: Melbourne, Australia</br>
 Coding Experience: Python, C, Java, JS, Web Dev frameworks</br>
