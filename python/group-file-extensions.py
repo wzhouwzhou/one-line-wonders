@@ -1,0 +1,1 @@
+import os; import itertools; print("\n".join("{} -> {}".format(k, ",".join(list(g))) for k, g in itertools.groupby(sorted(os.listdir('.'), key=lambda x: os.path.splitext(x)[1]), key=lambda x: os.path.splitext(x)[1]) if k))
