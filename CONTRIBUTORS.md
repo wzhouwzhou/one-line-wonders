@@ -128,3 +128,8 @@ Name: [Gabriel Fernandes](https://github.com/gafeol)<br/>
 Place: São Paulo, Brazil<br/>
 Coding Experience: C, C++, Java<br/>
 Email: gabriel5.oliveira@usp.br<br/>
+
+Name: [Ng Wei How](https://github.com/ngweihow)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Python, C, Java, JS, Web Dev frameworks</br>
+Email: ngweihow.r@gmail.com</br>
