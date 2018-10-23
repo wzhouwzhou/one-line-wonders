@@ -1,0 +1,1 @@
+import os; import datetime; print('\n'.join("{}, {}".format(file, date.strftime("%Y/%m/%d %H:%M:%S.%f")) for date, file in sorted((datetime.datetime.fromtimestamp(os.stat(file).st_mtime), file) for file in os.listdir('.'))))
