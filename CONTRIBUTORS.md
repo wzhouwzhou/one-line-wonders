@@ -123,3 +123,8 @@ Name: [Çağatay Yücelen](https://github.com/cagatayyucelen)<br/>
 Place: Istanbul, Turkey<br/>
 Coding Experience: C, Go :heart_eyes:, Javascript, NodeJS, React Native, Embedded Systems(STM32)<br/>
 Email: cagatayyucelen@gmail.com<br/>
+
+Name: [Ng Wei How](https://github.com/ngweihow)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Python, C, Java, JS, Web Dev frameworks</br>
+Email: ngweihow.r@gmail.com</br>
