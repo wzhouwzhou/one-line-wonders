@@ -118,3 +118,28 @@ Name: [Armaan McLeod](https://github.com/OpticGenius)<br/>
 Place: Melbourne, Australia<br/>
 Coding Experience: Python, C, C#, Java and some web stuff<br/>
 Email: opticgenius@hotmail.com<br/>
+
+Name: [Çağatay Yücelen](https://github.com/cagatayyucelen)<br/>
+Place: Istanbul, Turkey<br/>
+Coding Experience: C, Go :heart_eyes:, Javascript, NodeJS, React Native, Embedded Systems(STM32)<br/>
+Email: cagatayyucelen@gmail.com<br/>
+
+Name: [Gabriel Fernandes](https://github.com/gafeol)<br/>
+Place: São Paulo, Brazil<br/>
+Coding Experience: C, C++, Java<br/>
+Email: gabriel5.oliveira@usp.br<br/>
+
+Name: [Ng Wei How](https://github.com/ngweihow)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Python, C, Java, JS, Web Dev frameworks</br>
+Email: ngweihow.r@gmail.com</br>
+
+Name: [Mohammed Nisham](https://github.com/moonblade)</br>
+Place: Hyderabad, India</br>
+Coding Experience: Python, CPP, Java, JS, MEAN stack, PHP, Angular</br>
+Email: moonblade168@gmail.com</br>
+
+Name: [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)</br>
+Place: Caquetá, Colombia</br>
+Coding Experience: Java, Typescript, PHP, Ionic, Front-End Javascript, HTML, CSS</br>
+Email: juanhuertas.dev@gmail.com</br>
