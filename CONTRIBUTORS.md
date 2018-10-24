@@ -143,3 +143,8 @@ Name: [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)</br>
 Place: Caquetá, Colombia</br>
 Coding Experience: Java, Typescript, PHP, Ionic, Front-End Javascript, HTML, CSS</br>
 Email: juanhuertas.dev@gmail.com</br>
+
+Name: [Ante Barić](https://github.com/capJavert)</br>
+Ante Barić, Croatia</br>
+Coding Experience: Python <3 - JS -.-</br>
+Email: javert@kickass.website</br>
