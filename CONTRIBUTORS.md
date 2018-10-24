@@ -138,3 +138,8 @@ Name: [Mohammed Nisham](https://github.com/moonblade)</br>
 Place: Hyderabad, India</br>
 Coding Experience: Python, CPP, Java, JS, MEAN stack, PHP, Angular</br>
 Email: moonblade168@gmail.com</br>
+
+Name: [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)</br>
+Place: Caquetá, Colombia</br>
+Coding Experience: Java, Typescript, PHP, Ionic, Front-End Javascript, HTML, CSS</br>
+Email: juanhuertas.dev@gmail.com</br>
