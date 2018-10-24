@@ -148,3 +148,8 @@ Name: [Ante Barić](https://github.com/capJavert)</br>
 Ante Barić, Croatia</br>
 Coding Experience: Python <3 - JS -.-</br>
 Email: javert@kickass.website</br>
+
+Name: [Cole Hoffbauer](https://github.com/colehoff7)</br>
+Place: Chicago, USA</br>
+Coding Experience: Java, C++, Python, JS</br>
+Email: cthrocks@comcast.net</br>
