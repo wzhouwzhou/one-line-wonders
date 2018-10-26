@@ -163,3 +163,8 @@ Name: [Kennedy](https://github.com/kennedy)</br>
 Place: NY, USA</br>
 Coding Experience: Python, C#</br>
 Email: kennedy@imap.cc</br>
+
+Name: [Aman Agarwal](https://github.com/amanagarwal-sopho)</br>
+Place: India</br>
+Coding Experience: C, C++, Python</br>
+Email: aman.agarwal97@gmail.com</br>
