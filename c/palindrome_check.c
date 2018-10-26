@@ -9,7 +9,7 @@ Finds length of string
 #include <string.h>
 
 int palindrome_check(char *buffer) {
-  return strcmp(buffer, reverse(buffer));
+  return !strcmp(buffer, reverse(buffer));
 }
 
 int main(int argc, char **argv){
