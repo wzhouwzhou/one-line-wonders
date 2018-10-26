@@ -1,0 +1,1 @@
+f = lambda s: sum([int(p) for p in s])
