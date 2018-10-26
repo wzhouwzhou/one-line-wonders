@@ -1,1 +1,0 @@
-sdiffs = lambda x:pow(sum(range(x+1)),2)-sum([i*i for i in range(1,x+1)]) #print(sdiffs(100))->25164150
