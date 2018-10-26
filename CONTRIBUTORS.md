@@ -158,3 +158,8 @@ Name: [Albert Hofmann](https://github.com/JustCaptcha)</br>
 Place: Russia</br>
 Coding Expereince: Web Development(Vue, React), Java, C++, Nim, Crystal</br>
 Email: higashi166@gmail.com</br>
+
+Name: [Aman Agarwal](https://github.com/amanagarwal-sopho)</br>
+Place: India</br>
+Coding Experience: C, C++, Python</br>
+Email: aman.agarwal97@gmail.com</br>
