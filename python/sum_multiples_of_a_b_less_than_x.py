@@ -1,0 +1,1 @@
+sumultiple = lambda a,b, x:int(sum(set([i for i in range(a, x, a)] + [i for i in range(b, x, b)]))) #print(sumultiple(3,5,1000)) 233168
