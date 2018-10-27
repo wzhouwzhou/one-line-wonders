@@ -159,6 +159,11 @@ Place: Russia</br>
 Coding Expereince: Web Development(Vue, React), Java, C++, Nim, Crystal</br>
 Email: higashi166@gmail.com</br>
 
+Name: [Kennedy](https://github.com/kennedy)</br>
+Place: NY, USA</br>
+Coding Experience: Python, C#</br>
+Email: kennedy@imap.cc</br>
+
 Name: [Aman Agarwal](https://github.com/amanagarwal-sopho)</br>
 Place: India</br>
 Coding Experience: C, C++, Python</br>
