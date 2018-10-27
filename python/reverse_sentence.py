@@ -1,1 +1,1 @@
-sentence[::-1]; print(sentence)
+sentence = sentence[::-1]; print(sentence)
