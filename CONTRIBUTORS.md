@@ -183,3 +183,8 @@ Name: [David Chen M.](https://github.com/dchenmei)</br>
 Place: NY, USA</br>
 Coding Experience: C++, Python, Scheme (!) </br>
 Email: lastname#2lastname#1firstname@gmail.com </br>
+
+Name: [Ricardo VC](https://github.com/Include-Poetry)</br>
+Place: México</br>
+Coding Experience: C/C++, Javascript, Liquid, Front-end development stuff</br>
+Email: rivel_co@include-poetry.com </br>
