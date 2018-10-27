@@ -159,6 +159,11 @@ Place: Russia</br>
 Coding Expereince: Web Development(Vue, React), Java, C++, Nim, Crystal</br>
 Email: higashi166@gmail.com</br>
 
+Name: [Kennedy](https://github.com/kennedy)</br>
+Place: NY, USA</br>
+Coding Experience: Python, C#</br>
+Email: kennedy@imap.cc</br>
+
 Name: [Aman Agarwal](https://github.com/amanagarwal-sopho)</br>
 Place: India</br>
 Coding Experience: C, C++, Python</br>
@@ -173,3 +178,8 @@ Name: [Kyle Hu](https://github.com/falafel72)</br>
 Place: CA, USA (Hong Kong originally)</br>
 Coding Experience: C/C++, Python, Java, Javascript</br>
 Email: kylehu2000@gmail.com </br>
+
+Name: [David Chen M.](https://github.com/dchenmei)</br>
+Place: NY, USA</br>
+Coding Experience: C++, Python, Scheme (!) </br>
+Email: lastname#2lastname#1firstname@gmail.com </br>
