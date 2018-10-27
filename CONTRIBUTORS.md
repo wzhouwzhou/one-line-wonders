@@ -168,3 +168,8 @@ Name: [Bruno Gomes Coelho](https://github.com/BrunoGomesCoelho)</br>
 Place: Brazil</br>
 Coding Experience: C, Java, Python</br>
 Email: rather not :)</br>
+
+Name: [Kyle Hu](https://github.com/falafel72)</br>
+Place: CA, USA (Hong Kong originally)</br>
+Coding Experience: C/C++, Python, Java, Javascript</br>
+Email: kylehu2000@gmail.com </br>
