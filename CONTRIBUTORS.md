@@ -174,6 +174,11 @@ Place: Brazil</br>
 Coding Experience: C, Java, Python</br>
 Email: rather not :)</br>
 
+Name: [Kyle Hu](https://github.com/falafel72)</br>
+Place: CA, USA (Hong Kong originally)</br>
+Coding Experience: C/C++, Python, Java, Javascript</br>
+Email: kylehu2000@gmail.com </br>
+
 Name: [David Chen M.](https://github.com/dchenmei)</br>
 Place: NY, USA</br>
 Coding Experience: C++, Python, Scheme (!) </br>
