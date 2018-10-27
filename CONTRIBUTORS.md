@@ -163,3 +163,8 @@ Name: [Aman Agarwal](https://github.com/amanagarwal-sopho)</br>
 Place: India</br>
 Coding Experience: C, C++, Python</br>
 Email: aman.agarwal97@gmail.com</br>
+
+Name: [Bruno Gomes Coelho](https://github.com/BrunoGomesCoelho)</br>
+Place: Brazil</br>
+Coding Experience: C, Java, Python</br>
+Email: rather not :)</br>
