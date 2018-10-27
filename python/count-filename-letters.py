@@ -1,0 +1,1 @@
+import os; import collections; import itertools; import operator; print("\n".join("{} -> {}".format(k, str(v)) for k, v in sorted(collections.Counter(itertools.chain.from_iterable(map(list, map(operator.itemgetter(0), map(os.path.splitext, os.listdir('.')))))).items(), key=operator.itemgetter(1), reverse=True)))

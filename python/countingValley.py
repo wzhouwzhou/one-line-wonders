@@ -1,0 +1,2 @@
+s="UDDDUDUU"
+print(len([(i,x) for i, x in enumerate(reduce(lambda l, v: (l.append(l[-1] + v) or l), [{"U":1, "D":-1}[x]for x in s], [0])) if x == 0 and reduce(lambda l, v: (l.append(l[-1] + v) or l), [{"U":1, "D":-1}[x]for x in s], [0])[i-1]<0]))

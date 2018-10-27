@@ -1,0 +1,1 @@
+import random,time;[print('[{}|{}|{}]'.format(random.choice('7♪♫♣♠♦♥◄☼☽'),random.choice('7♪♫♣♠♦♥◄☼☽'),random.choice('7♪♫♣♠♦♥◄☼☽'),t=time.sleep(.1)),end=('\r' if i != 19 else '\n')) for i in range(20)]

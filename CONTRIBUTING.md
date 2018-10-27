@@ -1,3 +1,6 @@
+### Contribution Guidelines
+When contributing, please be sure to submit new files via a PR instead of editing someone else's. If you would like to request an edit from someone else, please open an issue and tag the contributor (check with git blame).
+
 # One line wonders
 A collection of one-line programs in various languages, performing various tasks.
 **"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow (i.e. no using ; instead of a new line and "minifying" it to be one line).

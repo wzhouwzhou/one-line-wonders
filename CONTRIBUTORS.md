@@ -1,3 +1,8 @@
+﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+Place: USA<br/>
+Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
+Email: kannagikazuko@gmail.com<br/>
+
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
@@ -27,3 +32,134 @@ Name: [Shawn Seymour](https://github.com/devshawn)</br>
 Place: Minneapolis, Minnesota, USA</br>
 Coding Experience: Javascript, Node, React, Redux, Java, Groovy, Spring, Docker</br>
 Email: shawn+hello@devshawn.com</br>
+
+Name: [Earvin Gemenez](https://github.com/earvingemenez)</br>
+Place: Davao City, Philippines</br>
+Coding Experience: Python, Django, AngularJS, Elixir, Phoenix</br>
+Email: earvin@swiftkind.com</br>
+
+Name: [Tom Stein](https://github.com/ScholliYT)</br>
+Place: Dülmen, Germany</br>
+Coding Experience: Python, C#, Flutter, Arduino</br>
+Email: tom@fantapptic.me</br>
+
+Name: [Jacob Roush](https://github.com/jjroush)</br>
+Place: Ames, Iowa</br>
+Coding Experience: Javascript, PHP, Java</br>
+Email: jacob@roush.io</br>
+
+Name: [Anamay Saxena](https://github.com/saxenanamay)</br>
+Place: Jaipur, Rajasthan, India</br>
+Coding Experience: Javascript, PHP, C, C++</br>
+Email: mannuanamaysaxena@gmail.com</br>
+
+Name: [Veena Ghorakavi](https://github.com/vghorakavi)</br>
+Place: United States of America (Moving to Canada)</br>
+Coding Experience: C, C++, Java, Haskell, Python, Javascript, PowerShell, R</br>
+Email: vghorakavi@gmail.com</br>
+
+Name: [Yulius](https://github.com/yyoel)</br>
+Place: Jakarta,Indonesia</br>
+Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
+Email: yoelyulius@gmail.com</br>
+
+Name: [Erick Surya Dinata](https://github.com/proesd)<br/>
+Place: Surabaya,Indonesia<br/>
+Coding Experience: PHP, Javascript, C++, Python<br/>
+Email: ericksuryadinata@gmail.com<br/>
+
+Name: [Nikola](https://github.com/vr1e)<br/>
+Place: Serbia<br/>
+Coding Experience: Javascript, Ruby on Rails<br/>
+Email: vrllee@gmail.com<br/>
+
+Name: [Sareesh Vattian](https://github.com/sareeshv)<br/>
+Place: CA, USA<br/>
+Coding Experience: Javascript, Angular, AngularJS, EmberJS<br/>
+Email: sareeshhere@gmail.com<br/>
+
+Name: [John Bramley](https://github.com/bramleyjl)</br>
+Place: VA, USA</br>
+Coding Experience: Javascript, PHP</br>
+Email: bramleyjl@gmail.com</br>
+
+Name: [Niral Pokal](https://github.com/niralpokal)</br>
+Place: CA, USA</br>
+Coding Experience: Javascript, Node.JS, Angular, AngularJS, React</br>
+Email: niralpokal@live.com</br>
+
+Name: [Austin Kregel](https://github.com/austinkregel)<br/>
+Place: MI, USA<br/>
+Coding Expereince: JavaScript/NodeJS, PHP, Python, Java, C#, C/C++<br/>
+Email: github@austinkregel.com<br/>
+
+Name: [Matt Sandy](https://github.com/MattSandy)<br/>
+Place: Minneapolis, MN<br/>
+Coding Experience: R, NodeJS, and PHP. Mostly work on reporting dashboards.<br/>
+Email: git@matt.mn<br/>
+
+Name: [Nils](https://github.com/Cyclenerd)<br/>
+Place: Hamburg, Germany<br/>
+Coding Experience: Perl<br/>
+Email: please-see@nkn-it.de<br/>
+
+Name: [Matt Chelen](https://github.com/mattchuranu)</br>
+Place: SC, USA</br>
+Coding Experience: Hobbyist programmer that has done work in ActionScript, C, GameMaker Language, Haxe, Java, JavaScript, Nim, Perl 6, and PHP.<br/>
+Email: matt@mattchuranu.xyz<br/>
+
+Name: [Jack Kavanagh](https://github.com/jackkav)<br/>
+Place: Amsterdam<br/>
+Coding Experience: Web developer(React), Hybrid mobile developer(React Native, Cordova)<br/>
+Programming Languages: Javascript and C#<br/>
+Email: git@matt.mn<br/>
+
+Name: [Armaan McLeod](https://github.com/OpticGenius)<br/>
+Place: Melbourne, Australia<br/>
+Coding Experience: Python, C, C#, Java and some web stuff<br/>
+Email: opticgenius@hotmail.com<br/>
+
+Name: [Çağatay Yücelen](https://github.com/cagatayyucelen)<br/>
+Place: Istanbul, Turkey<br/>
+Coding Experience: C, Go :heart_eyes:, Javascript, NodeJS, React Native, Embedded Systems(STM32)<br/>
+Email: cagatayyucelen@gmail.com<br/>
+
+Name: [Gabriel Fernandes](https://github.com/gafeol)<br/>
+Place: São Paulo, Brazil<br/>
+Coding Experience: C, C++, Java<br/>
+Email: gabriel5.oliveira@usp.br<br/>
+
+Name: [Ng Wei How](https://github.com/ngweihow)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Python, C, Java, JS, Web Dev frameworks</br>
+Email: ngweihow.r@gmail.com</br>
+
+Name: [Mohammed Nisham](https://github.com/moonblade)</br>
+Place: Hyderabad, India</br>
+Coding Experience: Python, CPP, Java, JS, MEAN stack, PHP, Angular</br>
+Email: moonblade168@gmail.com</br>
+
+Name: [Juan Pablo Huertas](https://github.com/JuanPabloHuertas)</br>
+Place: Caquetá, Colombia</br>
+Coding Experience: Java, Typescript, PHP, Ionic, Front-End Javascript, HTML, CSS</br>
+Email: juanhuertas.dev@gmail.com</br>
+
+Name: [Ante Barić](https://github.com/capJavert)</br>
+Ante Barić, Croatia</br>
+Coding Experience: Python <3 - JS -.-</br>
+Email: javert@kickass.website</br>
+
+Name: [Cole Hoffbauer](https://github.com/colehoff7)</br>
+Place: Chicago, USA</br>
+Coding Experience: Java, C++, Python, JS</br>
+Email: cthrocks@comcast.net</br>
+
+Name: [Albert Hofmann](https://github.com/JustCaptcha)</br>
+Place: Russia</br>
+Coding Expereince: Web Development(Vue, React), Java, C++, Nim, Crystal</br>
+Email: higashi166@gmail.com</br>
+
+Name: [Aman Agarwal](https://github.com/amanagarwal-sopho)</br>
+Place: India</br>
+Coding Experience: C, C++, Python</br>
+Email: aman.agarwal97@gmail.com</br>

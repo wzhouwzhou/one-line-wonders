@@ -1,0 +1,1 @@
+const hex2rgb = hex => [(parseInt(hex, 16) >> 16) & 0xff, (parseInt(hex, 16) >> 8) & 0xff, parseInt(hex, 16) & 0xff]

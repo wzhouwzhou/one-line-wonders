@@ -1,0 +1,1 @@
+import os; print("\n".join("{} {} size: {}".format(str(i), file, str(os.stat(file).st_size)) for i, file in enumerate(sorted(os.listdir('.'), key=lambda file: os.stat(file).st_size, reverse=True), start=1)))
