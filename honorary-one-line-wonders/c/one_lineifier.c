@@ -9,6 +9,10 @@
 void one_line(FILE *in, FILE *out) {
   char temp;
   while (fscanf(in, "%c", &temp) != -1) if (temp != '\n') fprintf(out, "%c", temp);
+
+  // C99
+  // for (char temp; fscanf(in, "%c", &temp) != -1;) if (temp != '\n') fprintf(out, "%c", temp);
+
   return;
 }
 
