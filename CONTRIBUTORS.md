@@ -168,3 +168,8 @@ Name: [Bruno Gomes Coelho](https://github.com/BrunoGomesCoelho)</br>
 Place: Brazil</br>
 Coding Experience: C, Java, Python</br>
 Email: rather not :)</br>
+
+Name: [David Chen M.](https://github.com/dchenmei)</br>
+Place: NY, USA</br>
+Coding Experience: C++, Python, Scheme (!) </br>
+Email: lastname#2lastname#1firstname@gmail.com </br>
