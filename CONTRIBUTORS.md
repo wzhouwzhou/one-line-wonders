@@ -183,3 +183,8 @@ Name: [David Chen M.](https://github.com/dchenmei)</br>
 Place: NY, USA</br>
 Coding Experience: C++, Python, Scheme (!) </br>
 Email: lastname#2lastname#1firstname@gmail.com </br>
+
+Name: [Piotr Gajowniczek](https://github.com/piotrgajow)</br>
+Place: Lodz, Poland </br>
+Coding Experience: Groovy, Java, TypeScript, JavaScript, SQL </br>
+Email: piotrgajow@gmail.com </br>
