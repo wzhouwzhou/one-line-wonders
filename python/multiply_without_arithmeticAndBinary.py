@@ -1,0 +1,1 @@
+def mul(a, b): return len([True for i in range(a) for j in range(b)])
