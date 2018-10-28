@@ -188,3 +188,8 @@ Name: [Ricardo VC](https://github.com/Include-Poetry)</br>
 Place: México</br>
 Coding Experience: C/C++, Javascript, Liquid, Front-end development stuff</br>
 Email: rivel_co@include-poetry.com </br>
+
+Name: [Piotr Gajowniczek](https://github.com/piotrgajow)</br>
+Place: Lodz, Poland </br>
+Coding Experience: Groovy, Java, TypeScript, JavaScript, SQL </br>
+Email: piotrgajow@gmail.com </br>
