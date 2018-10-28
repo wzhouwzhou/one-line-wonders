@@ -1,11 +1,14 @@
+/* gcc -o isPrime.exe isPrime.c -D DEBUG to enable assertions. */
+#if DEBUG
+#include <assert.h>
+#endif
+
 #include <stdio.h>
 #include <stdlib.h>
-#include <assert.h>
 
-#define DEBUG 1
 
 /* Function declaration. */
-int isPrime(long number);
+int isPrime(long number, long iter);
 
 /* Main function body. */
 #if !DEBUG
@@ -14,7 +17,6 @@ int main(int argc, char *argv[])
 int main(void)
 #endif
 {
-
 #if !DEBUG
 	/* Using command line input. */
 	long numberToCheck = 0;
@@ -26,7 +28,7 @@ int main(void)
 	}
 	
 	/* Check if prime. */
-	if ( isPrime(atol(argv[1])) ) /* atoi returns 0 if string is not a number.*/
+	if ( isPrime(atol(argv[1]), 1) ) /* atoi returns 0 if string is not a number. */
 	{
 		printf("%s is a prime number.\n", argv[1]);
 	}
@@ -39,34 +41,25 @@ int main(void)
 	return 0;
 #else
 	/* For debugging. */
-	assert(!isPrime(0));
-	assert(!isPrime(1));
-	assert(isPrime(2));
-	assert(isPrime(3));
-	assert(isPrime(5));
-	assert(!isPrime(6));
+	assert(!isPrime(-5, 1));
+	assert(!isPrime(-2, 1));
+	assert(!isPrime(-1, 1));
+	assert(!isPrime(1,  1));
+	assert( isPrime(2,  1));
+	assert( isPrime(3,  1));
+	assert( isPrime(5,  1));
+	assert(!isPrime(6,  1));
+	assert( isPrime(11, 1));
+	assert( isPrime(13, 1));
+	assert( isPrime(17, 1));
+	assert( isPrime(19, 1));
+	assert(!isPrime(20, 1));
 #endif
-} /* End main */
+} /* End main. */
 
-/* One-liner function definition.*/
-int isPrime(long number)
-{
-	/* TODO: Add range checking for very big numbers (platform dependent). */
-	long iter = 2;
-	if (number < 2)
-	{
-		return 0; /* Placeholder value. */
-	}
-	else
-	{
-		/* Super, super, super inneficient method... */
-		while (iter * iter <= number)
-		{
-			if (number % iter++ == 0)
-			{
-				return 0; /* Not a prime number. */
-			}
-		}
-		return 1; /* Is prime number. */
-	}
-} /* End isPrime */
+/* One-liner function definition. */
+int isPrime(long number, long iter) 
+{ 
+	/* Super inneficient but fun! */
+	return (number<2) ? 0 : (iter*iter>number) ? 1 : !(number%iter) && iter>1 ? 0 : isPrime(number, iter+1); 
+} /* End isPrime. */
