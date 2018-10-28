@@ -198,3 +198,8 @@ Name: [Sourabh Lal](https://github.com/sourabhlal) </br>
 Place: Lausanne, Switzerland </br>
 Coding Experience: Python, Java, JavaScript </br>
 Email: sourabh@sourabhs.space </br>
+
+Name: Neo Anoman </br>
+Place: New Delhi,India </br>
+Coding Experiance : Python,c++,c,HTML </br>
+Email: neoanoman@gmail.com
