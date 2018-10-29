@@ -208,3 +208,8 @@ Name: Shane Creedon </br>
 Place: Dublin, Ireland </br>
 Coding Experience: Python, Java, HTML, CSS, JS, Angular, Django, Spring
 Email: Shane.creedon3@mail.dcu.ie
+
+Name: Kevin Blicharski </br>
+Place: Iowa City, Iowa </br>
+Coding Experience: Python, Java, C++, HTML, CSS, JavaScript, TypeScript, F#, Ruby, React Native, Angular, Django, Rails </br>
+Email: blicharskikevin@gmail.com </br>
