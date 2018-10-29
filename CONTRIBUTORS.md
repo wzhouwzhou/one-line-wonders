@@ -206,5 +206,10 @@ Email: neoanoman@gmail.com
 
 Name: Shane Creedon </br>
 Place: Dublin, Ireland </br>
-Coding Experience: Python, Java, HTML, CSS, JS, Angular, Django, Spring
+Coding Experience: Python, Java, HTML, CSS, JS, Angular, Django, Spring  </br>
 Email: Shane.creedon3@mail.dcu.ie
+
+Name: Kyrpa Jorik Loh  </br>
+Place: Liubartsi  </br>
+Coding Experience: Python, Java, JavaScript, Go  </br>
+Email: kyrpa@jorik.loh
