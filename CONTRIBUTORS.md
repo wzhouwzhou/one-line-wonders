@@ -213,3 +213,8 @@ Name: Kyrpa Jorik Loh  </br>
 Place: Liubartsi  </br>
 Coding Experience: Python, Java, JavaScript, Go  </br>
 Email: kyrpa@jorik.loh
+
+Name: Eesh Tyagi </br>
+Place: Bangalore, India </br>
+Coding Experience: Javascript, React, PWA
+Email: eesh.tyagi@gmail.com
