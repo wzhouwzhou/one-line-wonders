@@ -223,3 +223,8 @@ Name: Eesh Tyagi </br>
 Place: Bangalore, India </br>
 Coding Experience: Javascript, React, PWA
 Email: eesh.tyagi@gmail.com
+
+Name: [Jorge Pinto](https://github.com/spikejap) </br>
+Place: Porto, Portugal </br>
+Coding Experience: C#, Java </br>
+Email: not now </br>
