@@ -223,3 +223,8 @@ Name: Eesh Tyagi </br>
 Place: Bangalore, India </br>
 Coding Experience: Javascript, React, PWA
 Email: eesh.tyagi@gmail.com
+
+Name: Ed Griebel</br>
+Place: New York, USA </br>
+Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
+Email: edgriebel@gmail.com
