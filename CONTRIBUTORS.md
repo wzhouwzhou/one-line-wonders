@@ -223,3 +223,8 @@ Name: Eesh Tyagi </br>
 Place: Bangalore, India </br>
 Coding Experience: Javascript, React, PWA
 Email: eesh.tyagi@gmail.com
+
+Name: Ankur Sonawane </br>
+Place: Varanasi, India
+Coding Experience:Python, C, CPP
+Email: sankur.shrikant.eee16@itbhu.ac.in
