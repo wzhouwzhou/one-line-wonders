@@ -1,1 +1,1 @@
-const head = [a] => a
+const head = ([a]) => a;
