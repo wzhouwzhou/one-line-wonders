@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# Ruby version 2.5.1
 fibonacci = ->(n) { n < 2 ? n : fibonacci.(n - 1) + fibonacci.(n - 2) }
 
 # Test this by running `ruby fibonacci.rb n` where n is the index in the fibonacci sequence to calculate.
