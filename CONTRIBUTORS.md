@@ -233,3 +233,7 @@ Name: Ankur Sonawane </br>
 Place: Varanasi, India
 Coding Experience:Python, C, CPP
 Email: sankur.shrikant.eee16@itbhu.ac.in
+
+Name: [Malik Ahmed](https://github.com/animanmaster)<br />
+Place: New Jersey
+Coding Experience: Ruby, Java, Python, C, C++, C#, Javascript
