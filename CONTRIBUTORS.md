@@ -239,6 +239,11 @@ Place: Varanasi, India
 Coding Experience:Python, C, CPP
 Email: sankur.shrikant.eee16@itbhu.ac.in
 
+Name: [Matan Kotler-Berkowitz](https://github.com/matankb) </br>
+Place: Massachusetts, USA </br>
+Coding Experience: JavaScript, HTML, CSS, Java, OCaml</br>
+Email: 205matan@gmail.com </br>
+
 Name: Ed Griebel</br>
 Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
