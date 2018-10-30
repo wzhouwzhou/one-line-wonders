@@ -262,3 +262,8 @@ Name: Ed Griebel</br>
 Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
+
+Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
+Place: Curitiba, PR, Brazil </br>
+Coding Experience: Python</br>
+Email: ramiroluz@gmail.com </br>
