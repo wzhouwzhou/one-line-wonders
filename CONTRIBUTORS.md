@@ -224,6 +224,16 @@ Place: Bangalore, India </br>
 Coding Experience: Javascript, React, PWA
 Email: eesh.tyagi@gmail.com
 
+Name: Govind Venugopalan </br>
+Place: Singapore
+Coding Experience: Python, Java, C++
+Email: govindvenugopalan@gmail.com
+
+Name: [Dhruv Sahnan](https://github.com/dhruvsahnan1008)</br>
+Place: Delhi, India</br>
+Coding Experience: Python, C++</br>
+Email: dhruv.ds.009@gmail.com
+
 Name: Ankur Sonawane </br>
 Place: Varanasi, India
 Coding Experience:Python, C, CPP
@@ -233,3 +243,8 @@ Name: [Matan Kotler-Berkowitz](https://github.com/matankb) </br>
 Place: Massachusetts, USA </br>
 Coding Experience: JavaScript, HTML, CSS, Java, OCaml</br>
 Email: 205matan@gmail.com </br>
+
+Name: Ed Griebel</br>
+Place: New York, USA </br>
+Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
+Email: edgriebel@gmail.com
