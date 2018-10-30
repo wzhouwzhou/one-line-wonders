@@ -193,3 +193,5 @@ cabal.project.local~
 # Java compiled classes
 *.class 
 *.jar
+# Ruby
+.ruby-version
