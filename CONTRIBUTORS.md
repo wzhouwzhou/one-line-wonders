@@ -224,6 +224,11 @@ Place: Bangalore, India </br>
 Coding Experience: Javascript, React, PWA
 Email: eesh.tyagi@gmail.com
 
+Name: Govind Venugopalan </br>
+Place: Singapore
+Coding Experience: Python, Java, C++
+Email: govindvenugopalan@gmail.com
+
 Name: [Dhruv Sahnan](https://github.com/dhruvsahnan1008)</br>
 Place: Delhi, India</br>
 Coding Experience: Python, C++</br>
