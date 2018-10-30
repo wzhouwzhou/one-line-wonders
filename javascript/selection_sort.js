@@ -1,0 +1,1 @@
+const selectionSort = (arr, i = arr.length - 1, selected = arr.slice(0, i).reduce((res, val) => val > res ? val : res)) => i === 0 ? arr : selectionSort([...arr.slice(0, i + 1).filter(val => val !== selected), selected, ...arr.slice(i + 1)], --i, i === 0 ? null : undefined)

@@ -190,3 +190,8 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+# Java compiled classes
+*.class 
+*.jar
+# Ruby
+.ruby-version
