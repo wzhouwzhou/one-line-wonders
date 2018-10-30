@@ -239,6 +239,10 @@ Place: Varanasi, India
 Coding Experience:Python, C, CPP
 Email: sankur.shrikant.eee16@itbhu.ac.in
 
+Name: [Malik Ahmed](https://github.com/animanmaster)<br />
+Place: New Jersey
+Coding Experience: Ruby, Java, Python, C, C++, C#, Javascript
+
 Name: [Ian Emnace](https://github.com/igemnace) <br/>
 Place: Quezon City, Philippines <br/>
 Coding Experience: Software development in Javascript, in browser and with Node.js. Projects in React/React Native, Vue. Toolbox primarily includes Vim scripts, Unix shell, and miscellaneous Python/Perl/Ruby programs. <br/>
