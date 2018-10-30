@@ -1,0 +1,1 @@
+const sumOfRange = (m , n) => ((-m * m) + (n * n) + m + n) / 2;
