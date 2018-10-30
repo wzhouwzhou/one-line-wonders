@@ -1,0 +1,1 @@
+tri=[(a,b,c)|a<-[1,2..100000],b<-[1,2..a], let c=a*b,show(a)++show(b)++show(c)==reverse(show(a))++reverse(show(b))++reverse(show(c))]
