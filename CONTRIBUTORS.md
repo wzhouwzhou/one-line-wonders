@@ -239,6 +239,11 @@ Place: Varanasi, India
 Coding Experience:Python, C, CPP
 Email: sankur.shrikant.eee16@itbhu.ac.in
 
+Name: [Ian Emnace](https://github.com/igemnace) <br/>
+Place: Quezon City, Philippines <br/>
+Coding Experience: Software development in Javascript, in browser and with Node.js. Projects in React/React Native, Vue. Toolbox primarily includes Vim scripts, Unix shell, and miscellaneous Python/Perl/Ruby programs. <br/>
+Email: igemnace@gmail.com <br/>
+
 Name: [Matan Kotler-Berkowitz](https://github.com/matankb) </br>
 Place: Massachusetts, USA </br>
 Coding Experience: JavaScript, HTML, CSS, Java, OCaml</br>
