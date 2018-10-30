@@ -233,3 +233,8 @@ Name: Ankur Sonawane </br>
 Place: Varanasi, India
 Coding Experience:Python, C, CPP
 Email: sankur.shrikant.eee16@itbhu.ac.in
+
+Name: Ed Griebel</br>
+Place: New York, USA </br>
+Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
+Email: edgriebel@gmail.com
