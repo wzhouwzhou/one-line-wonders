@@ -290,6 +290,11 @@ Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
 
+Name: [Isak Rabin](https://leetcode.com/sgirabin/)
+Place: Singapore, SG
+Coding Experience: Java
+Email: isak_r@yahoo.com
+
 Name: [Geoff Safcik](https://github.com/gsafcik) </br>
 Place: Denver, Colorado, USA </br>
 Coding Experience: Python, PHP, SQL/MySQL, JavaScript, etc</br>
