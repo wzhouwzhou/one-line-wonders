@@ -300,3 +300,8 @@ Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
 Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
+
+Name: Nitish Chauhan </br>
+Place: India
+Coding Experience:Python
+Email: maths.boring@gmail.com
