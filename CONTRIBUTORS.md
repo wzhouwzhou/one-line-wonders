@@ -23,6 +23,11 @@ Place: kwarastate , Nigeria</br>
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. </br>
 Email: emmanuel.adeojo.ibk@gmail.com</br>
 
+Name: [Bilal Shehata](https://github.com/bshehata)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
+Email: bilalshehata@gmail.com</br>
+
 Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
 Place: Barranquilla, Atlantico, Colombia</br>
 Coding Experience: Java, Python, R, MatLab, and More.</br>
