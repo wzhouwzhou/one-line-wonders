@@ -1,0 +1,1 @@
+const password = length => new Array(length).fill(0).map(() => String.fromCharCode(Math.floor(Math.random() * 94) + 33)).join('');
