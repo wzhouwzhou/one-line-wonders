@@ -280,3 +280,8 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Geoff Safcik](https://github.com/gsafcik) </br>
+Place: Denver, Colorado, USA </br>
+Coding Experience: Python, PHP, SQL/MySQL, JavaScript, etc</br>
+Email: gsafcik@gmail.com </br>
