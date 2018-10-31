@@ -315,3 +315,8 @@ Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
 Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
+
+Name: [Riei Joaquim](https://github.com/Riei-Joaquim) </br>
+Place: Recife, PE, Brazil </br>
+Coding Experience: C/C++ and Python </br>
+Email: rjmr@cin.ufpe.br </br>
