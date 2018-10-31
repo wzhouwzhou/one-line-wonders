@@ -280,3 +280,7 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Vlad Nikityuk](https://github.com/rk4n) </br>
+Place: Kyiv, Ukraine </br>
+Coding Experience: Python, C#, JS, ... </br>
