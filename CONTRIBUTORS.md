@@ -280,3 +280,9 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Isak Rabin](https://leetcode.com/sgirabin/)
+Place: Singapore, SG
+Coding Experience: Java
+Email: isak_r@yahoo.com
+
