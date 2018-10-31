@@ -262,3 +262,7 @@ Name: Ed Griebel</br>
 Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
+
+Name: [João Portela](https://github.com/joaoportela)  
+Place: Porto, Portugal  
+Coding Experience: C#, C, C++, Python, SQL, ...  
