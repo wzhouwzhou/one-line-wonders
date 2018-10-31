@@ -285,6 +285,12 @@ Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
 
+Name: Akashdeep Arora </br>
+(akashdeep98.github.io)
+Place: India
+Coding Experience:Python, C, CPP,HTML,CSS, JAVASCRIPT, BOOTSTRAP
+Email: akashdeeparora2@gmail.com
+
 Name: [Jane Liu](https://github.com/JaneLiuUSA/) </br>
 Place: Cleveland, OH, USA (from Taiwan originally) </br>
 Coding Experience: Python, Java, Django, Google Web Toolkit, HTML</br>
