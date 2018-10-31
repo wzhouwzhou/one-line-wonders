@@ -272,3 +272,8 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
+Place: São Paulo, SP, Brazil </br>
+Coding Experience: Python</br>
+Email: beatriz.uezu@gmail.com </br>
