@@ -1,0 +1,1 @@
+const copyObject = object => ({...object});
