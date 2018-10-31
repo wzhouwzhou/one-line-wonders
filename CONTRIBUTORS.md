@@ -23,6 +23,11 @@ Place: kwarastate , Nigeria</br>
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. </br>
 Email: emmanuel.adeojo.ibk@gmail.com</br>
 
+Name: [Bilal Shehata](https://github.com/bshehata)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
+Email: bilalshehata@gmail.com</br>
+
 Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
 Place: Barranquilla, Atlantico, Colombia</br>
 Coding Experience: Java, Python, R, MatLab, and More.</br>
@@ -272,6 +277,10 @@ Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
 
+Name: [João Portela](https://github.com/joaoportela)  
+Place: Porto, Portugal  
+Coding Experience: C#, C, C++, Python, SQL, ...  
+
 Name: [Adam Hill](https://github.com/cadarn)<br />
 Place: London, UK
 Coding Experience: Python, IDL, SQL, HTML, C++
@@ -286,3 +295,23 @@ Place: Singapore, SG
 Coding Experience: Java
 Email: isak_r@yahoo.com
 
+Name: [Geoff Safcik](https://github.com/gsafcik) </br>
+Place: Denver, Colorado, USA </br>
+Coding Experience: Python, PHP, SQL/MySQL, JavaScript, etc</br>
+Email: gsafcik@gmail.com </br>
+
+Name: Akashdeep Arora </br>
+(akashdeep98.github.io)
+Place: India
+Coding Experience:Python, C, CPP,HTML,CSS, JAVASCRIPT, BOOTSTRAP
+Email: akashdeeparora2@gmail.com
+
+Name: [Jane Liu](https://github.com/JaneLiuUSA/) </br>
+Place: Cleveland, OH, USA (from Taiwan originally) </br>
+Coding Experience: Python, Java, Django, Google Web Toolkit, HTML</br>
+Email: janeliuUSA@gmail.com </br>
+
+Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
+Place: São Paulo, SP, Brazil </br>
+Coding Experience: Python</br>
+Email: beatriz.uezu@gmail.com </br>

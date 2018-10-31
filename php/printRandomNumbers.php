@@ -1,0 +1,1 @@
+<?php print_r(range(0, rand(0, 9999)));
