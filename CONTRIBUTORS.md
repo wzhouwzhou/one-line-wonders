@@ -276,3 +276,8 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Jane Liu](https://github.com/JaneLiuUSA/) </br>
+Place: Cleveland, OH, USA (from Taiwan originally) </br>
+Coding Experience: Python, Java, Django, Google Web Toolkit, HTML</br>
+Email: janeliuUSA@gmail.com </br>
