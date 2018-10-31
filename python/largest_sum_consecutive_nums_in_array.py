@@ -1,0 +1,1 @@
+import itertools; print(0, list(itertools.accumulate([1, 4, -2, 6, -5, 3])).index(max(list(itertools.accumulate([1, 4, -2, 6, -5, 3])))))  # not very pythonic in my opinion but it is a one-liner
