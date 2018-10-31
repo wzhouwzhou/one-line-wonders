@@ -63,6 +63,10 @@ Place: Jakarta,Indonesia</br>
 Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
 Email: yoelyulius@gmail.com</br>
 
+Name: [Laisa Barros](https://github.com/lbarros00)
+Place: Sending PR from US
+Coding Experience: C, C++, React.js, JavaScript, HTML/CSS, Python
+
 Name: [Erick Surya Dinata](https://github.com/proesd)<br/>
 Place: Surabaya,Indonesia<br/>
 Coding Experience: PHP, Javascript, C++, Python<br/>
