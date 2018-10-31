@@ -1,0 +1,1 @@
+reverseFunc = foldl (flip (:)) []
