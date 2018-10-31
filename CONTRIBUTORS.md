@@ -63,6 +63,10 @@ Place: Jakarta,Indonesia</br>
 Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
 Email: yoelyulius@gmail.com</br>
 
+Name: [Laisa Barros](https://github.com/lbarros00)
+Place: Sending PR from US
+Coding Experience: C, C++, React.js, JavaScript, HTML/CSS, Python
+
 Name: [Erick Surya Dinata](https://github.com/proesd)<br/>
 Place: Surabaya,Indonesia<br/>
 Coding Experience: PHP, Javascript, C++, Python<br/>
@@ -224,6 +228,11 @@ Place: Bangalore, India </br>
 Coding Experience: Javascript, React, PWA
 Email: eesh.tyagi@gmail.com
 
+Name: [Jorge Pinto](https://github.com/spikejap) </br>
+Place: Porto, Portugal </br>
+Coding Experience: C#, Java </br>
+Email: not now </br>
+
 Name: Govind Venugopalan </br>
 Place: Singapore
 Coding Experience: Python, Java, C++
@@ -266,3 +275,12 @@ Email: edgriebel@gmail.com
 Name: [João Portela](https://github.com/joaoportela)  
 Place: Porto, Portugal  
 Coding Experience: C#, C, C++, Python, SQL, ...  
+
+Name: [Adam Hill](https://github.com/cadarn)<br />
+Place: London, UK
+Coding Experience: Python, IDL, SQL, HTML, C++
+
+Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
+Place: Curitiba, PR, Brazil </br>
+Coding Experience: Python</br>
+Email: ramiroluz@gmail.com </br>
