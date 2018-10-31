@@ -280,3 +280,8 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [ivanightingale](https://github.com/ivanightingale)
+Place: Shenzhen, China
+Coding Experience: Data Engineer. Favorite language is Scala.
+Email: N/A
