@@ -266,4 +266,10 @@ Email: 205matan@gmail.com </br>
 Name: Ed Griebel</br>
 Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
-Email: edgriebel@gmail.com
+Email: edgriebel@gmail.com</br>
+
+Name: [Nikhil M Tomy](https://github.com/nikhilmtomy) </br>
+Place: India </br>
+Coding Experience: JavaScript, HTML, CSS, Java, Python, C, C++, react, react-native, ...</br>
+Email: nikhilmtomy@gmail.com </br>
+
