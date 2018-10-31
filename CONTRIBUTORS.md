@@ -285,6 +285,11 @@ Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
 
+Name: [Jane Liu](https://github.com/JaneLiuUSA/) </br>
+Place: Cleveland, OH, USA (from Taiwan originally) </br>
+Coding Experience: Python, Java, Django, Google Web Toolkit, HTML</br>
+Email: janeliuUSA@gmail.com </br>
+
 Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
 Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
