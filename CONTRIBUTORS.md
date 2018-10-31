@@ -272,6 +272,14 @@ Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
 
+Name: [João Portela](https://github.com/joaoportela)  
+Place: Porto, Portugal  
+Coding Experience: C#, C, C++, Python, SQL, ...  
+
+Name: [Adam Hill](https://github.com/cadarn)<br />
+Place: London, UK
+Coding Experience: Python, IDL, SQL, HTML, C++
+
 Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
@@ -281,3 +289,8 @@ Name: [Jane Liu](https://github.com/JaneLiuUSA/) </br>
 Place: Cleveland, OH, USA (from Taiwan originally) </br>
 Coding Experience: Python, Java, Django, Google Web Toolkit, HTML</br>
 Email: janeliuUSA@gmail.com </br>
+
+Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
+Place: São Paulo, SP, Brazil </br>
+Coding Experience: Python</br>
+Email: beatriz.uezu@gmail.com </br>
