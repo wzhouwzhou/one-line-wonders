@@ -305,3 +305,8 @@ Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
 Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
+
+Name: [Adithya Narasinghe](https://github.com/nmasnadithya) </br>
+Place: Colombo, Sri Lanka </br>
+Coding Experience: Swift, Java, Kotlin, Typescript, Javascript, C#, C++, CSS, HTML</br>
+Email: adithyasnarasinghe@gmail.com </br>
