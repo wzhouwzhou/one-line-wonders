@@ -272,6 +272,10 @@ Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
 
+Name: [Adam Hill](https://github.com/cadarn)<br />
+Place: London, UK
+Coding Experience: Python, IDL, SQL, HTML, C++
+
 Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
