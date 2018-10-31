@@ -280,3 +280,9 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: Akashdeep Arora </br>
+(akashdeep98.github.io)
+Place: India
+Coding Experience:Python, C, CPP,HTML,CSS, JAVASCRIPT, BOOTSTRAP
+Email: akashdeeparora2@gmail.com
