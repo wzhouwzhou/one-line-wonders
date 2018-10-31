@@ -228,3 +228,42 @@ Name: [Jorge Pinto](https://github.com/spikejap) </br>
 Place: Porto, Portugal </br>
 Coding Experience: C#, Java </br>
 Email: not now </br>
+
+Name: Govind Venugopalan </br>
+Place: Singapore
+Coding Experience: Python, Java, C++
+Email: govindvenugopalan@gmail.com
+
+Name: [Dhruv Sahnan](https://github.com/dhruvsahnan1008)</br>
+Place: Delhi, India</br>
+Coding Experience: Python, C++</br>
+Email: dhruv.ds.009@gmail.com
+
+Name: Ankur Sonawane </br>
+Place: Varanasi, India
+Coding Experience:Python, C, CPP
+Email: sankur.shrikant.eee16@itbhu.ac.in
+
+Name: [Rafael De Luna](https://github.com/RDLL) </br>
+Place: México</br>
+Coding experience: html, java, c </br>
+Email rafael24b00@hotmail.com </br>
+
+Name: [Malik Ahmed](https://github.com/animanmaster)<br />
+Place: New Jersey
+Coding Experience: Ruby, Java, Python, C, C++, C#, Javascript
+
+Name: [Ian Emnace](https://github.com/igemnace) <br/>
+Place: Quezon City, Philippines <br/>
+Coding Experience: Software development in Javascript, in browser and with Node.js. Projects in React/React Native, Vue. Toolbox primarily includes Vim scripts, Unix shell, and miscellaneous Python/Perl/Ruby programs. <br/>
+Email: igemnace@gmail.com <br/>
+
+Name: [Matan Kotler-Berkowitz](https://github.com/matankb) </br>
+Place: Massachusetts, USA </br>
+Coding Experience: JavaScript, HTML, CSS, Java, OCaml</br>
+Email: 205matan@gmail.com </br>
+
+Name: Ed Griebel</br>
+Place: New York, USA </br>
+Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
+Email: edgriebel@gmail.com
