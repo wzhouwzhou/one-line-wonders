@@ -23,6 +23,11 @@ Place: kwarastate , Nigeria</br>
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. </br>
 Email: emmanuel.adeojo.ibk@gmail.com</br>
 
+Name: [Bilal Shehata](https://github.com/bshehata)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
+Email: bilalshehata@gmail.com</br>
+
 Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
 Place: Barranquilla, Atlantico, Colombia</br>
 Coding Experience: Java, Python, R, MatLab, and More.</br>
@@ -272,9 +277,9 @@ Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
 
-Name: [João Portela](https://github.com/joaoportela)  
-Place: Porto, Portugal  
-Coding Experience: C#, C, C++, Python, SQL, ...  
+Name: [João Portela](https://github.com/joaoportela)
+Place: Porto, Portugal
+Coding Experience: C#, C, C++, Python, SQL, ...
 
 Name: [Adam Hill](https://github.com/cadarn)<br />
 Place: London, UK
@@ -284,6 +289,11 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Isak Rabin](https://leetcode.com/sgirabin/)
+Place: Singapore, SG
+Coding Experience: Java
+Email: isak_r@yahoo.com
 
 Name: [Geoff Safcik](https://github.com/gsafcik) </br>
 Place: Denver, Colorado, USA </br>
@@ -305,6 +315,11 @@ Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
 Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
+
+Name: [Jasper Chen](https://github.com/jasperdchen/)
+Place: Irvine, CA
+Coding Experience: JavaScript
+Email: jasperdchen@gmail.com
 
 Name: [Adithya Narasinghe](https://github.com/nmasnadithya) </br>
 Place: Colombo, Sri Lanka </br>
