@@ -320,3 +320,8 @@ Name: [Jasper Chen](https://github.com/jasperdchen/)
 Place: Irvine, CA
 Coding Experience: JavaScript
 Email: jasperdchen@gmail.com
+
+Name: [Antonio](https://github.com/Antonio32A/) </br>
+Place: Croatia </br>
+Coding Experience: Discord Bot Developer (Python). Programming Languages: Python and C. </br>
+Email: antonio32a.1337@gmail.com </br>
