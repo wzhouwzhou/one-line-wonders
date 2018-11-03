@@ -1,0 +1,33 @@
+{
+  "name": "one-line-wonders",
+  "version": "1.0.0",
+  "description": "An actively maintained collection of \"one-line\" programs in various languages, performing various tasks",
+  "main": "./_assemble/index.js",
+  "dependencies": {
+    "easypathutil": "^1.1.1"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.3.2"
+  },
+  "scripts": {
+    "test": "node ./_assemble/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kannagikazuko/one-line-wonders.git"
+  },
+  "keywords": [
+    "hacktoberfest",
+    "one-line",
+    "open-source",
+    "maintained",
+    "one-line-wonders",
+    "one-line-wonders-code"
+  ],
+  "author": "One Line Wonders Code (William Zhou)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kannagikazuko/one-line-wonders/issues"
+  },
+  "homepage": "https://github.com/kannagikazuko/one-line-wonders#readme"
+}
