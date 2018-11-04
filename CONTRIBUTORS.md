@@ -322,6 +322,11 @@ Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
 
+Name: Nitish Chauhan </br>
+Place: India
+Coding Experience:Python
+Email: maths.boring@gmail.com
+
 Name: [Bhirawa Mbani](https://github.com/bhirmbani) </br>
 Place: Jakarta, Indonesia </br>
 Coding Experience: Javascript</br>
