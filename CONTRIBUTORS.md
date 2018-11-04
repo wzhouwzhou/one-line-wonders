@@ -1,12 +1,9 @@
-﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
-Place: USA<br/>
-Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
-Email: kannagikazuko@gmail.com<br/>
-
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
 Email: wzhouwzhou@gmail.com</br>
+- Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+- Email: kannagikazuko@gmail.com<br/>
 
 Name: [Shawn Flores](https://github.com/Priultimus)</br>
 Place: Ottawa, Ontario, Canada</br>
@@ -289,6 +286,10 @@ Name: [Ramiro Batista da Luz](https://github.com/ramiroluz) </br>
 Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
+
+Name: [Vlad Nikityuk](https://github.com/rk4n) </br>
+Place: Kyiv, Ukraine </br>
+Coding Experience: Python, C#, JS, ... </br>
 
 Name: [Isak Rabin](https://leetcode.com/sgirabin/)
 Place: Singapore, SG
