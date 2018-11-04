@@ -350,3 +350,8 @@ Name: [Riei Joaquim](https://github.com/Riei-Joaquim) </br>
 Place: Recife, PE, Brazil </br>
 Coding Experience: C/C++ and Python </br>
 Email: rjmr@cin.ufpe.br </br>
+
+Name: [ivanightingale](https://github.com/ivanightingale)<br />
+Place: Shenzhen, China<br />
+Coding Experience: Data Engineer. Favorite language is Scala.<br />
+Email: N/A<br />
