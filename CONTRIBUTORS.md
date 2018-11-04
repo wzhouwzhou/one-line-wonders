@@ -345,3 +345,8 @@ Name: [Adithya Narasinghe](https://github.com/nmasnadithya) </br>
 Place: Colombo, Sri Lanka </br>
 Coding Experience: Swift, Java, Kotlin, Typescript, Javascript, C#, C++, CSS, HTML</br>
 Email: adithyasnarasinghe@gmail.com </br>
+
+Name: [Riei Joaquim](https://github.com/Riei-Joaquim) </br>
+Place: Recife, PE, Brazil </br>
+Coding Experience: C/C++ and Python </br>
+Email: rjmr@cin.ufpe.br </br>
