@@ -336,3 +336,8 @@ Name: [Jasper Chen](https://github.com/jasperdchen/)
 Place: Irvine, CA
 Coding Experience: JavaScript
 Email: jasperdchen@gmail.com
+
+Name: [Adithya Narasinghe](https://github.com/nmasnadithya) </br>
+Place: Colombo, Sri Lanka </br>
+Coding Experience: Swift, Java, Kotlin, Typescript, Javascript, C#, C++, CSS, HTML</br>
+Email: adithyasnarasinghe@gmail.com </br>
