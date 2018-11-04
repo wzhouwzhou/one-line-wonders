@@ -322,6 +322,10 @@ Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
 
+﻿Name: [Hugo Nunes](https://github.com/hugonun)<br/>
+Place: Luxembourg<br/>
+Coding Experience: Hobbyist programmer. Python, PHP, JavaScript, HTML/CSS<br/>
+
 Name: Nitish Chauhan </br>
 Place: India
 Coding Experience:Python
