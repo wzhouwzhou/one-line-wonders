@@ -322,6 +322,11 @@ Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
 
+Name: [Bhirawa Mbani](https://github.com/bhirmbani) </br>
+Place: Jakarta, Indonesia </br>
+Coding Experience: Javascript</br>
+Email: bhirmbani@gmail.com </br>
+
 Name: [Jasper Chen](https://github.com/jasperdchen/)
 Place: Irvine, CA
 Coding Experience: JavaScript
