@@ -1,12 +1,9 @@
-﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
-Place: USA<br/>
-Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
-Email: kannagikazuko@gmail.com<br/>
-
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
 Email: wzhouwzhou@gmail.com</br>
+- Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+- Email: kannagikazuko@gmail.com<br/>
 
 Name: [Shawn Flores](https://github.com/Priultimus)</br>
 Place: Ottawa, Ontario, Canada</br>
@@ -22,6 +19,11 @@ Name: [Adeojo Emmanuel](https://github.com/adeojoemmanuel)</br>
 Place: kwarastate , Nigeria</br>
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. </br>
 Email: emmanuel.adeojo.ibk@gmail.com</br>
+
+Name: [Bilal Shehata](https://github.com/bshehata)</br>
+Place: Melbourne, Australia</br>
+Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
+Email: bilalshehata@gmail.com</br>
 
 Name: [Sebastian Racedo](https://github.com/JoaoRacedo)</br>
 Place: Barranquilla, Atlantico, Colombia</br>
@@ -272,6 +274,10 @@ Place: New York, USA </br>
 Coding Experience: Java, JavaScript, C, C++, Python, SQL, ... </br>
 Email: edgriebel@gmail.com
 
+Name: [João Portela](https://github.com/joaoportela)
+Place: Porto, Portugal
+Coding Experience: C#, C, C++, Python, SQL, ...
+
 Name: [Adam Hill](https://github.com/cadarn)<br />
 Place: London, UK
 Coding Experience: Python, IDL, SQL, HTML, C++
@@ -284,3 +290,34 @@ Email: ramiroluz@gmail.com </br>
 Name: [Vlad Nikityuk](https://github.com/rk4n) </br>
 Place: Kyiv, Ukraine </br>
 Coding Experience: Python, C#, JS, ... </br>
+
+Name: [Isak Rabin](https://leetcode.com/sgirabin/)
+Place: Singapore, SG
+Coding Experience: Java
+Email: isak_r@yahoo.com
+
+Name: [Geoff Safcik](https://github.com/gsafcik) </br>
+Place: Denver, Colorado, USA </br>
+Coding Experience: Python, PHP, SQL/MySQL, JavaScript, etc</br>
+Email: gsafcik@gmail.com </br>
+
+Name: Akashdeep Arora </br>
+(akashdeep98.github.io)
+Place: India
+Coding Experience:Python, C, CPP,HTML,CSS, JAVASCRIPT, BOOTSTRAP
+Email: akashdeeparora2@gmail.com
+
+Name: [Jane Liu](https://github.com/JaneLiuUSA/) </br>
+Place: Cleveland, OH, USA (from Taiwan originally) </br>
+Coding Experience: Python, Java, Django, Google Web Toolkit, HTML</br>
+Email: janeliuUSA@gmail.com </br>
+
+Name: [Beatriz Harumi Uezu](https://github.com/beatrizuezu) </br>
+Place: São Paulo, SP, Brazil </br>
+Coding Experience: Python</br>
+Email: beatriz.uezu@gmail.com </br>
+
+Name: [Jasper Chen](https://github.com/jasperdchen/)
+Place: Irvine, CA
+Coding Experience: JavaScript
+Email: jasperdchen@gmail.com
