@@ -1,3 +1,11 @@
+// Author: Ankur S (www.github.com/s-ankur)
+// Caesar Cipher C Style
+// Usage:
+// gcc caesar.c
+// ./a.out
+// Input: <number of characters> <string>
+// Output: <ciphertext>
+
 #include <stdio.h>
 int main()
 {
