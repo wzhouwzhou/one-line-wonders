@@ -1,4 +1,4 @@
-# One line wonders ![](https://travis-ci.com/wzhouwzhou/one-line-wonders.svg?branch=master)
+# One Line Wonders ![](https://travis-ci.com/wzhouwzhou/one-line-wonders.svg?branch=master)
 A collection of one-line programs in various languages, performing various tasks.
 **"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow (i.e. no using ; instead of a new line and "minifying" it to be one line).
 
@@ -8,7 +8,7 @@ Have some fun with coding every once in a while, and see how you can abuse the s
 ### Contributing
 Anyone can contribute to this repo by opening a PR, your contribution will be open-source on Github. Don't know what to make? Try coding something that logs "Hello, world!" to the console!
 
-### Hacktoberfest
+### Hacktoberfest (Preparing for 2019)
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) together with a diverse community of developers from around the world!
 
 PRs marked as spam will not be counted towards 5 PRs in the month of October for your **free Hacktoberfest T-Shirt!**
