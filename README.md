@@ -1,4 +1,4 @@
-# One line wonders
+# One line wonders ![](https://travis-ci.com/wzhouwzhou/one-line-wonders.svg?branch=master)
 A collection of one-line programs in various languages, performing various tasks.
 **"One-Line"** is for those languages that support it; the aim is to create a runnable file the shortest a language can allow (i.e. no using ; instead of a new line and "minifying" it to be one line).
 
