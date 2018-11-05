@@ -355,3 +355,8 @@ Name: [ivanightingale](https://github.com/ivanightingale)<br />
 Place: Shenzhen, China<br />
 Coding Experience: Data Engineer. Favorite language is Scala.<br />
 Email: N/A<br />
+
+Name: [Antonio](https://github.com/Antonio32A/) </br>
+Place: Croatia </br>
+Coding Experience: Discord Bot Developer (Python). Programming Languages: Python and C. </br>
+Email: antonio32a.1337@gmail.com </br>
