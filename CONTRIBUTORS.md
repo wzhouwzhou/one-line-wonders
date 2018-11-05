@@ -1,12 +1,9 @@
-﻿Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
-Place: USA<br/>
-Coding Experience: Hobbyist programmer and Discord Bot Developer. Programming Languages: Primarily Javascript (Node JS) and Coffeescript<br/>
-Email: kannagikazuko@gmail.com<br/>
-
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
 Email: wzhouwzhou@gmail.com</br>
+- Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
+- Email: kannagikazuko@gmail.com<br/>
 
 Name: [Shawn Flores](https://github.com/Priultimus)</br>
 Place: Ottawa, Ontario, Canada</br>
@@ -290,6 +287,15 @@ Place: Curitiba, PR, Brazil </br>
 Coding Experience: Python</br>
 Email: ramiroluz@gmail.com </br>
 
+Name: [Jibin K Mathew](https://github.com/jibinkmathew94) </br>
+Place: Kerala, India </br>
+Coding Experience: Python,Javascript,HTML,CSS</br>
+Email: jibin.mathew94@gmail.com </br>
+
+Name: [Vlad Nikityuk](https://github.com/rk4n) </br>
+Place: Kyiv, Ukraine </br>
+Coding Experience: Python, C#, JS, ... </br>
+
 Name: [Isak Rabin](https://leetcode.com/sgirabin/)
 Place: Singapore, SG
 Coding Experience: Java
@@ -316,10 +322,39 @@ Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
 
+﻿Name: [Hugo Nunes](https://github.com/hugonun)<br/>
+Place: Luxembourg<br/>
+Coding Experience: Hobbyist programmer. Python, PHP, JavaScript, HTML/CSS<br/>
+
+Name: Nitish Chauhan </br>
+Place: India
+Coding Experience:Python
+Email: maths.boring@gmail.com
+
+Name: [Bhirawa Mbani](https://github.com/bhirmbani) </br>
+Place: Jakarta, Indonesia </br>
+Coding Experience: Javascript</br>
+Email: bhirmbani@gmail.com </br>
+
 Name: [Jasper Chen](https://github.com/jasperdchen/)
 Place: Irvine, CA
 Coding Experience: JavaScript
 Email: jasperdchen@gmail.com
+
+Name: [Adithya Narasinghe](https://github.com/nmasnadithya) </br>
+Place: Colombo, Sri Lanka </br>
+Coding Experience: Swift, Java, Kotlin, Typescript, Javascript, C#, C++, CSS, HTML</br>
+Email: adithyasnarasinghe@gmail.com </br>
+
+Name: [Riei Joaquim](https://github.com/Riei-Joaquim) </br>
+Place: Recife, PE, Brazil </br>
+Coding Experience: C/C++ and Python </br>
+Email: rjmr@cin.ufpe.br </br>
+
+Name: [ivanightingale](https://github.com/ivanightingale)<br />
+Place: Shenzhen, China<br />
+Coding Experience: Data Engineer. Favorite language is Scala.<br />
+Email: N/A<br />
 
 Name: [Antonio](https://github.com/Antonio32A/) </br>
 Place: Croatia </br>
