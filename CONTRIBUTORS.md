@@ -365,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [HrishikeshAgarwal](https://github.com/codetheorem) </br>
+Place: India </br>
+Coding EXperience: C/C++ and Python </br>
+Email: hrishikeshagarwalv@gmail.com </br>
