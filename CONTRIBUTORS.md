@@ -365,3 +365,9 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name [Henning-K](https://github.com/Henning-K)<br>
+Place: Germany
+Coding Experience: Hobbyist, Rust, Python3, one cargo submodule<br>
+Programming Languages: Rust, Python 3, Java, Javascript<br>
+Email: N/A
