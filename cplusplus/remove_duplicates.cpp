@@ -8,5 +8,5 @@ int main()
     std::set<int> nonDuplicates;
     std::set<int>::iterator it;
     //Spaghetti code BUT it is one line
-    for (int i = 0; i < 10; i++){ nonDuplicates.insert(duplicates[i]);} for (it = nonDuplicates.begin(); it != nonDuplicates.end(); it++){std::cout << *it << ", ";}
+    for (int i = 0; i < 10; i++) nonDuplicates.insert(duplicates[i]); for (it = nonDuplicates.begin(); it != nonDuplicates.end(); it++) std::cout << *it << ", ";
 }
