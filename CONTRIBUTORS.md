@@ -368,5 +368,5 @@ Email: benjamin@ericsart.com
 
 Name: [HrishikeshAgarwal](https://github.com/codetheorem) </br>
 Place: India </br>
-Coding EXperience: C/C++ and Python </br>
+Coding Experience: C/C++ and Python </br>
 Email: hrishikeshagarwalv@gmail.com </br>
