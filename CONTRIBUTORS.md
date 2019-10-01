@@ -5,6 +5,13 @@ Email: wzhouwzhou@gmail.com</br>
 - Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
 - Email: kannagikazuko@gmail.com<br/>
 
+
+Name: [Ojaswy Akella](https://github.com/Ojaswy)</br>
+Place: Hyderabad, India</br>
+Coding Experience: Data Scientist, Competetive Coder, HTML, CSS, Javascript, Java, Python, C, R, MATLAB</br>
+Portfolio: [Here](https://ojaswy.github.io)</br>
+
+
 Name: [Shawn Flores](https://github.com/Priultimus)</br>
 Place: Ottawa, Ontario, Canada</br>
 Coding Experience: Software Enginner, System Administrator, Software development in: Python, NodeJS, Java, HTML/CSS</br>
