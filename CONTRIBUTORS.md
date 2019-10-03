@@ -2,6 +2,7 @@ Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
 Email: wzhouwzhou@gmail.com</br>
+
 - Name: [Kazuko Kannagi](https://github.com/kannagikazuko)<br/>
 - Email: kannagikazuko@gmail.com<br/>
 
@@ -220,10 +221,10 @@ Place: Iowa City, Iowa </br>
 Coding Experience: Python, Java, C++, HTML, CSS, JavaScript, TypeScript, F#, Ruby, React Native, Angular, Django, Rails </br>
 Email: blicharskikevin@gmail.com </br>
 
-Name: Kyrpa Jorik Loh  </br>
-Place: Liubartsi  </br>
-Coding Experience: Python, Java, JavaScript, Go  </br>
-Email: kyrpa@jorik.loh  </br>
+Name: Kyrpa Jorik Loh </br>
+Place: Liubartsi </br>
+Coding Experience: Python, Java, JavaScript, Go </br>
+Email: kyrpa@jorik.loh </br>
 
 Name: Eesh Tyagi </br>
 Place: Bangalore, India </br>
@@ -322,7 +323,7 @@ Place: São Paulo, SP, Brazil </br>
 Coding Experience: Python</br>
 Email: beatriz.uezu@gmail.com </br>
 
-﻿Name: [Hugo Nunes](https://github.com/hugonun)<br/>
+Name: [Hugo Nunes](https://github.com/hugonun)<br/>
 Place: Luxembourg<br/>
 Coding Experience: Hobbyist programmer. Python, PHP, JavaScript, HTML/CSS<br/>
 
@@ -365,3 +366,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [EJBarba](https://github.com/EJBarba)</br>
+Place: Philippines</br>
+Coding Experience: React Js, Node JS, PostgreSQL</br>
+Email: elijahjeremiah.barba@bicol-u.edu.ph</br>
