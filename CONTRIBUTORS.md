@@ -365,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [Subham Sahu](https://github.com/subhamX/)<br>
+Coding Experience: Full Stack Web Developer <br>
+Programming Languages: C++ 1/2, Python 1/2, JavaScript 3/4<br>
+Email: subham.iitrpr@gmail.com
