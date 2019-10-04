@@ -365,8 +365,3 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
-
-Name: [pbootly](https://github.com/pbootly)</br>
-Place: Southampton, United Kingdom </br>
-Coding Experience: System administrator. Bash, Node and some C. </br>
-Email: mthomas@polybit.io </br>
