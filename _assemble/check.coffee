@@ -1,6 +1,6 @@
 do main = -> setImmediate ->
   easypathutil = require 'easypathutil'
-  { sep, basename, dirname } = require 'path'
+  { sep, basename, dirname, relative: rel } = require 'path'
 
   replace = (str) -> str.replace /[|\\{}()[\]^$+*?.]/g, '\\$&'
   startsep = new RegExp "^#{replace sep}"
@@ -20,15 +20,21 @@ do main = -> setImmediate ->
     .filter((e, i) -> !ignored.some (b) -> e.replace(base['honorary-one-line-wonders'](), '').replace(startsep, '').startsWith b)
     .length}#{bgblack} honorary programs in /honorary-one-line-wonders\nNow running checks...#{r}"
 
-  sorting = (for program in list when folder = dirname program
-    Object.entries(categories).find (category) ->
-      if category[1].test basename(program).toLowerCase() #.includes category[0]
-        if not folder.split(sep).some (f) -> category[1].test f
-          console.log program
-          console.log category
-          return true).filter (e) -> e
+  sorting = (for [path, program, folder] in list.map (e) -> [e, basename(e), dirname(e)]
+    if program[0] is '.'
+      !1
+    else unless program.includes '_'
+      console.log cyan, 'Filename must be of the format username_file_name_here.extension', r, red, rel('.', path), r
+      program
+    else
+      Object.entries(categories).find (category) ->
+        if category[1].test program.toLowerCase() #.includes category[0]
+          if not folder.split(sep).some (f) -> category[1].test f
+            console.log cyan, 'Expected program to be in a folder:', r, red, rel('.', path), category, r
+            return true
+  ).filter (e) -> e
   if sorting.length > 0
-    console.log "#{bold}#{bgblack}#{sorting.length} one-line programs were possibly in the wrong directory. Please check the above output.#{r}"
+    console.log "#{bold}#{bgred}#{sorting.length} one-line programs were possibly misnamed or in the wrong directory. Please check the above output.#{r}"
     process.exit 1
   else
     console.log "#{bggreen}Folder checks passed!#{r}"
@@ -39,6 +45,8 @@ bgblue = '\x1b[44m'
 bgblack = '\x1b[40m'
 bgred = '\x1b[41m'
 bggreen = '\x1b[42m'
+cyan = '\x1b[36m'
+red = '\x1b[31m'
 
 categories =
   hello: /^hello([-_]?world)?$/i
@@ -52,3 +60,4 @@ categories =
   e: /approx(imate[_-]?)?e/i
   golden_ratio: /(approx(imate[_-]?)?)?(golden_ratio|phi)/i
   valley: /valley/i
+  unique_elems: /unique/i
