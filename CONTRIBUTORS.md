@@ -361,10 +361,10 @@ Place: Croatia </br>
 Coding Experience: Discord Bot Developer (Python). Programming Languages: Python and C. </br>
 Email: antonio32a.1337@gmail.com </br>
 
-Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)</br>
-Coding Experience: Discord Bot Developer (Java) + misc. wrappers. </br>
-Programming Languages: Python 2/3, Java 8</br>
-Email: benjamin@ericsart.com</br>
+Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
+Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
+Programming Languages: Python 2/3, Java 8<br>
+Email: benjamin@ericsart.com<br>
 
 Name: [Yenruo](https://github.com/YenruoY)</br>
 Place: West Bengal, India</br>
