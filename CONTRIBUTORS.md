@@ -365,3 +365,9 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+
+Name: [Antonio](https://github.com/toluwalope19) </br>
+Place: Nigeria </br>
+Coding Experience: Python and javaScript. </br>
+Email: tolubarca01@gmail.com </br>
