@@ -365,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [Unaidedsteak](https://github.com/Unaidedsteak)<br>
+Coding Experience: _some_ <br>
+Programming Languages: Javascript, Go, Rust<br>
+Email: ryan.assis@protonmail.com
