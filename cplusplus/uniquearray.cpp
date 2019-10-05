@@ -8,13 +8,9 @@ int main() {
 	{	cin>>a; v.push_back(a); }
 	
 	for (auto i=v.begin(); i!=v.end(); i++)		//Remove duplicates
-	{	for(auto j=i+1;j!=v.end();j++)
-		{	if(*i==*j)
-			{	v.erase(j); j--;	} 
-		}
-	}
-	
+		for(auto j=i+1;j!=v.end();j++)
+			if(*i==*j) v.erase(j--); 	
+
 	for (auto i=v.begin(); i!=v.end();i++)		//Print the reult
         cout<<*i<<" ";
-	cout<<endl;
 }
