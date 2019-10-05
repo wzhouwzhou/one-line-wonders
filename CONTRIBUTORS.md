@@ -365,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [Ashutosh Patil](https://github.com/ashupatil96)</br>
+Place: India </br>
+Coding Experience: Pyhton Developer </br>
+Email: ashutosh.s.patil@outlook.com </br>
