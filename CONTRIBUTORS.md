@@ -20,6 +20,11 @@ Place: kwarastate , Nigeria</br>
 Coding Experience: Java, Python, php, Javascript, HTML, CSS. Flask, Angular 2+. </br>
 Email: emmanuel.adeojo.ibk@gmail.com</br>
 
+Name: [Adeojo Emmanuel](https://github.com/divyshah-1712)</br>
+Place: Ahmedabad, India</br>
+Coding Experience: Java, Python, php, Javascript, HTML, CSS.
+Email: c.m.shah6645@gmail.com</br>
+
 Name: [Bilal Shehata](https://github.com/bshehata)</br>
 Place: Melbourne, Australia</br>
 Coding Experience: Software Engineer, Haskell, Java, C, Node, React, Python, Docker </br>
