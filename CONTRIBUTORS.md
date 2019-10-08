@@ -365,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name [Ethan Lawrence](https://github.com/Evildeathpro)</br>
+Place: Shippensburg University, USA</br>
+Coding Experience: Discord Bot Developer of ([Chipsbot](https://chipsbot.me)). I am proficient with C#, Java, NodeJS, Python, Ruby, and SQL</br>
+Email: elawrence152@gmail.com</br>
