@@ -60,6 +60,11 @@ Place: United States of America (Moving to Canada)</br>
 Coding Experience: C, C++, Java, Haskell, Python, Javascript, PowerShell, R</br>
 Email: vghorakavi@gmail.com</br>
 
+Name: [Jatin Aggarwal](https://github.com/jatinagg1)</br>
+Place: Patiala, India</br>
+Coding Experience: C, C++, Python, Arduino, Web Development</br>
+Email: jatinagg1@gmail.com</br>
+
 Name: [Yulius](https://github.com/yyoel)</br>
 Place: Jakarta,Indonesia</br>
 Coding Experience: C#, Javascript, Typescript, PowerShell, </br>
