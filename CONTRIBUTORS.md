@@ -365,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [Franzwagner Ternus](https://github.com/strund3r) </br>
+Place: Goiânia, Goiás, Brazil </br>
+Coding Experience: Shell Script, Java and Python </br>
+Email: franzwagner.str@gmail.com </br>
