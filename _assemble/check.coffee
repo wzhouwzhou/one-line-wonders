@@ -5,7 +5,7 @@ do main = -> setImmediate ->
   replace = (str) -> str.replace /[|\\{}()[\]^$+*?.]/g, '\\$&'
   startsep = new RegExp "^#{replace sep}"
   base = easypathutil()
-  ignored = ['.DS_Store$', '^_assemble', '^\\.git', '^\\.github', 'node_modules', '^_config\\.yml', '^\\.gitignore', '^CONTRIBUT[A-Z]+', '^LICENSE$', '^package', '^README', '^honorary-one-line-wonders']
+  ignored = ['.DS_Store$', '^_assemble', '^\\.git', '^\\.github', 'node_modules', '^_config\\.yml', '^\\.gitignore', '^CONTRIBUT[A-Z]+', '^LICENSE$', '^package', '^README', '^honorary-one-line-wonders', '^\\.travis']
 
   list = base.$read_dir_sync.filter (e, i) -> !ignored.some (b) -> RegExp(b).test e.replace(base(), '').replace(startsep, '')
 
@@ -21,9 +21,7 @@ do main = -> setImmediate ->
     .length}#{bgblack} honorary programs in /honorary-one-line-wonders\nNow running checks...#{r}"
 
   sorting = (for [path, program, folder] in list.map (e) -> [e, basename(e), dirname(e)]
-    if program[0] is '.'
-      !1
-    else unless program.includes '_'
+    unless program.includes '_'
       console.log cyan, 'Filename must be of the format username_file_name_here.extension', r, red, rel('.', path), r
       program
     else
@@ -61,3 +59,5 @@ categories =
   golden_ratio: /(approx(imate[_-]?)?)?(golden_ratio|phi)/i
   valley: /valley/i
   unique_elems: /unique/i
+  even: /even|odd/i
+  reverse: /rev/i
