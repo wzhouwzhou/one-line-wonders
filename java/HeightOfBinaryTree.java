@@ -29,26 +29,26 @@ class HeightOfBinaryTree{
      		Scanner sc = new Scanner(System.in);
         	int t = sc.nextInt();
         	while (t > 0){
-            		HashMap<Integer, Node> m = new HashMap<Integer, Node> ();
+            		HashMap<Integer, Node> hashMap = new HashMap<Integer, Node> ();
             		int n = sc.nextInt();//number of nodes in the binary tree
             		Node root=null;
             		while (n > 1){
-                		int n1 = sc.nextInt();//parent node value
-                		int n2 = sc.nextInt();//new node value
-                		char lr = sc.next().charAt(0);//L or R to determine whether to insert the new node to the left(L) of right(R)
-                		Node parent = m.get(n1);
+                		int parentValue = sc.nextInt();//parent node value
+                		int childValue = sc.nextInt();//new node value
+                		char leftOrRight = sc.next().charAt(0);//L or R to determine whether to insert the new node to the left(L) of right(R)
+                		Node parent = hashMap.get(parentValue);
                 		if (parent == null){
-                    			parent = new Node(n1);
-                    			m.put(n1, parent);
+                    			parent = new Node(parentValue);
+                    			hashMap.put(parentValue, parent);
                     			if (root == null)
                         			root = parent;
                 		}
-                		Node child = new Node(n2);
-                		if (lr == 'L')
+                		Node child = new Node(childValue);
+                		if (leftOrRight == 'L')
                     			parent.left = child;
                 		else
                     			parent.right = child;
-                			m.put(n2, child);
+                			hashMap.put(childValue, child);
                 		n--;
             		}
 			//Create an object of the class
