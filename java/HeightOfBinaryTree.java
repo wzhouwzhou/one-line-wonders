@@ -1,6 +1,5 @@
 //Importing necessary packages
 import java.util.*;
-import java.io.*;
 
 // A Binary Tree node
 class Node{
