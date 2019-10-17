@@ -1,0 +1,1 @@
+import calendar; print(calendar.month(2019,1) + calendar.month(2019,2) + calendar.month(2019,3) + calendar.month(2019,4) + calendar.month(2019,5) + calendar.month(2019,6) + calendar.month(2019,7) + calendar.month(2019,8) + calendar.month(2019,9) + calendar.month(2019,10) + calendar.month(2019,11) + calendar.month(2019,12))
