@@ -366,6 +366,11 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Ojaswy Akella](https://github.com/Ojaswy)</br>
+Place: Hyderabad, India</br>
+Coding Experience: Data Scientist, Competetive Coder, HTML, CSS, Javascript, Java, Python, C, R, MATLAB</br>
+Portfolio: [Here](https://ojaswy.github.io)</br>
+
 Name: [Jaako Andes](https://github.com/jaakofalltrade)<br>
 Place: Sorsogon City, Philippines </br>
 Coding Experience: React JS, Node JS, Javascript, jQuery, C and Python. Junior Web Developer. <br>
