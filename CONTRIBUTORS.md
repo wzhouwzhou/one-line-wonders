@@ -1,8 +1,3 @@
-Name: [N Balgopal Patro](https://github.com/balgopal123)</br>
-Place: Berhampur , Odisha , India</br>
-Coding Experience: Javascript, HTML, CSS, Java, Python, C++ ,C ,Firebase ,Android </br>
-Email: n.balgopalpatra@gmail.com</br>
-
 Name: [William Zhou](https://github.com/wzhouwzhou)</br>
 Place: White Plains, New York, USA</br>
 Coding Experience: Developer, Systems Administrator, Designer, Chatbot Creator ([Chipsbot](https://chipsbot.me)), and More. Proficient: Node JS, Coffeescript; Front-End Javascript, HTML, CSS, Java, Python, C++</br>
@@ -370,3 +365,8 @@ Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
+
+Name: [N Balgopal Patro](https://github.com/balgopal123)</br>
+Place: Berhampur , Odisha , India</br>
+Coding Experience: Javascript, HTML, CSS, Java, Python, C++ ,C ,Firebase ,Android </br>
+Email: n.balgopalpatra@gmail.com</br>
