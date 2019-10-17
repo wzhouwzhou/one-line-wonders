@@ -366,6 +366,11 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Jaako Andes](https://github.com/jaakofalltrade)<br>
+Place: Sorsogon City, Philippines </br>
+Coding Experience: React JS, Node JS, Javascript, jQuery, C and Python. Junior Web Developer. <br>
+Email: jaako.andes@bicol-u.edu.ph<br>
+
 Name:  [BrianHopper](https://github.com/BubbaBeans)<br>
 Place:  Redding, California, USA
 Coding Experience: Hobbyist programmer, various languages since 1982.<br>
