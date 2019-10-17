@@ -366,6 +366,12 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name:  [BrianHopper](https://github.com/BubbaBeans)<br>
+Place:  Redding, California, USA
+Coding Experience: Hobbyist programmer, various languages since 1982.<br>
+Programming Languages: Some C++, some Python 2/3, VB.net... anyone remember Pilot?
+Email: brian.hopper@transdev.com
+
 Name [Henning-K](https://github.com/Henning-K)<br>
 Place: Germany
 Coding Experience: Hobbyist, Rust, Python3, one cargo submodule<br>
