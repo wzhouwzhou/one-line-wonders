@@ -370,3 +370,8 @@ Name: [Ben Carpenter](https://github.com/jagwiredev/) </br>
 Place: Australia </br>
 Coding Experience: Computer Science Student. Programming Languages: C++ and Full-Stack Web Development. </br>
 Email: benwcarpenter0@gmail.com </br>
+
+Name: [Ankita Priya](https://github.com/AnkitaBIT) </br>
+Place: India </br>
+Coding Experience: A newbie in this felid. Programming Languages: C, HTML and Python. </br>
+Email: ankitapriya2011@gmail.com </br>  
