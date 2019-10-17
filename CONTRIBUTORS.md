@@ -366,6 +366,10 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Lizard Morrow] (https://github.com/onlyasmalllizard) </br>
+Place: UK </br>
+Coding Experience: Ruby, Python, C, HTML/CSS </br>
+
 Name: [UsmanAkinbiyi](https://github.com/ThaLeprechaun)</br>
 Place: Lagos, Nigeria</br>
 Coding Experience: Javascript and python</br>
