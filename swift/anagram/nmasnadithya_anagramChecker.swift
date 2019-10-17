@@ -6,4 +6,3 @@ func check(_ a: String, _ b: String) -> Bool {
 }
 print(check("anagram","nagaram"))
 print(check("rat","car"))
-
