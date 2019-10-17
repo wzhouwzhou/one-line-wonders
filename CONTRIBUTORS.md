@@ -416,3 +416,8 @@ Name: [Thanapat Bhunnachet](https://github.com/tnptop)<br/>
 Place: Thailand<br/>
 Coding Experience: Software Engineer, mostly work on web technologies (JavaScript, Node.js, Python)<br/>
 Email: me@tnptop.com
+
+Name: [Subham Sahu](https://github.com/subhamX/)<br>
+Coding Experience: Full Stack Web Developer <br>
+Programming Languages: C++ 1/2, Python 1/2, JavaScript 3/4<br>
+Email: subham.iitrpr@gmail.com
