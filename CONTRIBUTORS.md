@@ -364,7 +364,7 @@ Email: antonio32a.1337@gmail.com </br>
 Name: [BenjaminUrquhart](https://github.com/BenjaminUrquhart)<br>
 Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
-Email: benjamin@ericsart.com
+Email: benjamin@ericsart.com</br>
 
 Name: [Ben Carpenter](https://github.com/jagwiredev/) </br>
 Place: Australia </br>
@@ -375,3 +375,8 @@ Name: [N Balgopal Patro](https://github.com/balgopal123)</br>
 Place: Berhampur , Odisha , India</br>
 Coding Experience: Javascript, HTML, CSS, Java, Python, C++ ,C ,Firebase ,Android </br>
 Email: n.balgopalpatra@gmail.com</br>
+
+Name: [icedream](https://github.com/icedream)<br>
+Coding Experience: Writing IRC bots, web apps, network utilities, Docker stacks, pipelines for Jenkins/GitLab CI and shell scripts. <br>
+Programming Languages: Go, JavaScript, TypeScript, CoffeeScript, IcedCoffeeScript, C#, VB.NET, Bash, (CSS, HTML)<br>
+Email: icedream@icedream.pw<br>
