@@ -421,3 +421,6 @@ Name: [Subham Sahu](https://github.com/subhamX/)<br>
 Coding Experience: Full Stack Web Developer <br>
 Programming Languages: C++ 1/2, Python 1/2, JavaScript 3/4<br>
 Email: subham.iitrpr@gmail.com
+
+Name: [Jurica](https://github.com/juricav)<br>
+Coding Experience: Dynamics365 developer <br>
