@@ -366,6 +366,11 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Ben Carpenter](https://github.com/jagwiredev/) </br>
+Place: Australia </br>
+Coding Experience: Computer Science Student. Programming Languages: C++ and Full-Stack Web Development. </br>
+Email: benwcarpenter0@gmail.com </br>
+
 Name: [N Balgopal Patro](https://github.com/balgopal123)</br>
 Place: Berhampur , Odisha , India</br>
 Coding Experience: Javascript, HTML, CSS, Java, Python, C++ ,C ,Firebase ,Android </br>

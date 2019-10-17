@@ -11,7 +11,7 @@ Anyone can contribute to this repo by opening a PR, your contribution will be op
 ### Hacktoberfest 2019
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) together with a diverse community of developers from around the world!
 
-PRs marked as spam will not be counted towards 5 PRs in the month of October for your **free Hacktoberfest T-Shirt!**
+### PRs not marked as spam will be counted towards **4** PRs in the month of October for your **free Hacktoberfest T-Shirt!**
 
 ### Let's Get Started
 1. Fork this repository
