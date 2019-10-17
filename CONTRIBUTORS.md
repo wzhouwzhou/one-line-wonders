@@ -369,4 +369,25 @@ Email: benjamin@ericsart.com
 Name: [Jaako Andes](https://github.com/jaakofalltrade)<br>
 Place: Sorsogon City, Philippines </br>
 Coding Experience: React JS, Node JS, Javascript, jQuery, C and Python. Junior Web Developer. <br>
-Email: jaako.andes@bicol-u.edu.ph
+Email: jaako.andes@bicol-u.edu.ph<br>
+
+Name [Henning-K](https://github.com/Henning-K)<br>
+Place: Germany
+Coding Experience: Hobbyist, Rust, Python3, one cargo submodule<br>
+Programming Languages: Rust, Python 3, Java, Javascript<br>
+Email: N/A
+
+Name: [Ben Carpenter](https://github.com/jagwiredev/) </br>
+Place: Australia </br>
+Coding Experience: Computer Science Student. Programming Languages: C++ and Full-Stack Web Development. </br>
+Email: benwcarpenter0@gmail.com </br>
+
+Name: [N Balgopal Patro](https://github.com/balgopal123)</br>
+Place: Berhampur , Odisha , India</br>
+Coding Experience: Javascript, HTML, CSS, Java, Python, C++ ,C ,Firebase ,Android </br>
+Email: n.balgopalpatra@gmail.com</br>
+
+Name: [icedream](https://github.com/icedream)<br>
+Coding Experience: Writing IRC bots, web apps, network utilities, Docker stacks, pipelines for Jenkins/GitLab CI and shell scripts. <br>
+Programming Languages: Go, JavaScript, TypeScript, CoffeeScript, IcedCoffeeScript, C#, VB.NET, Bash, (CSS, HTML)<br>
+Email: icedream@icedream.pw<br>
