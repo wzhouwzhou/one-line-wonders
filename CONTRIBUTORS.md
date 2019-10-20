@@ -439,3 +439,7 @@ Name: [Antonio](https://github.com/toluwalope19) </br>
 Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
+Name: [Abhay yadav](https://github.com/predator21x) </br>
+place: India. </br>
+Coding Experience: a newbie in this field. Programming language: C, python. </br>
+Email: ry694356@gmail.com </br>
