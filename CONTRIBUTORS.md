@@ -439,3 +439,9 @@ Name: [Antonio](https://github.com/toluwalope19) </br>
 Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
+
+Name: [Abhishek Singh](https://github.com/n6wbi6) </br>
+Place: India </br>
+Coding Experience: 2 years of coding experience in C. </br>
+Email: abhisheksingh.g07@gmail.com </br>
+
