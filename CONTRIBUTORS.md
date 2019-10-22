@@ -439,3 +439,8 @@ Name: [Antonio](https://github.com/toluwalope19) </br>
 Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
+
+Name: [Amanda Bertsch](https://github.com/abertsch72) </br>
+Place: Arizona, USA </br>
+Coding Experience: Python, C, Java, SQL. </br>
+Email: abertsch72@gmail.com </br>
