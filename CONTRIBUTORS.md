@@ -434,3 +434,13 @@ Name: [Ashutosh Patil](https://github.com/ashupatil96)</br>
 Place: India </br>
 Coding Experience: Pyhton Developer </br>
 Email: ashutosh.s.patil@outlook.com </br>
+
+Name: [Ankita Priya](https://github.com/AnkitaBIT) </br>
+Place: India </br>
+Coding Experience: A newbie in this felid. Programming Languages: C, HTML and Python. </br>
+Email: ankitapriya2011@gmail.com </br>  
+
+Name: [Antonio](https://github.com/toluwalope19) </br>
+Place: Nigeria </br>
+Coding Experience: Python and javaScript. </br>
+Email: tolubarca01@gmail.com </br>
