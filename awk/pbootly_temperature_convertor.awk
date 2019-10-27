@@ -1,0 +1,1 @@
+BEGIN {printf "Enter a temperature of format ##f or ##c to get the opposing value\n"; getline < "-"} BEGIN { if ( $1 ~ /f/ ) { print (((substr($1, 1, length($1)-1) - 32) * 5/9))"C"} else if ( $1 ~ /c/ ) { print (substr($1, 1, length($1)-1) * 9 / 5 + 32"F")} else {print "Usage: ##f to convert to celcius ##c to convert to fahrenheit"}}
