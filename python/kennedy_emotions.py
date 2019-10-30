@@ -1,0 +1,1 @@
+import itertools; import functools; functools.reduce(lambda _, x: print(x, end=''), itertools.cycle('😀😁😂😃😄😅😆😇😈😉😊😋😌😍😎😏'))

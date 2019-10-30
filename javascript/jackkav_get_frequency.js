@@ -1,0 +1,1 @@
+const getFrequency = (array, key) => array.reduce((totals, p) => ({...totals, [p[key]]: (totals[p[key]] || 0) + 1}), {})
