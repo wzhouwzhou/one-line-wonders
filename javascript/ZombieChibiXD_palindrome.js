@@ -1,0 +1,1 @@
+const palindrome = (text) => text.toLowerCase() == text.toLowerCase().split("").reverse().join("");
