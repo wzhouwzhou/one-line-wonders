@@ -440,6 +440,11 @@ Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
 
+Name: [Amanda Bertsch](https://github.com/abertsch72) </br>
+Place: Arizona, USA </br>
+Coding Experience: Python, C, Java, SQL. </br>
+Email: abertsch72@gmail.com </br>
+
 Name: [Abhishek Singh](https://github.com/n6wbi6) </br>
 Place: India </br>
 Coding Experience: C and python. </br>
