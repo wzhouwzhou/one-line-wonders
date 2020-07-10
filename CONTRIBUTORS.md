@@ -445,6 +445,11 @@ Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
 
+Name: [Abhay yadav](https://github.com/predator21x) </br>
+place: India. </br>
+Coding Experience: a newbie in this field. Programming language: C, python. </br>
+Email: ry694356@gmail.com </br>
+
 Name: [Abhishek Singh](https://github.com/n6wbi6) </br>
 Place: India </br>
 Coding Experience: C and python. </br>
