@@ -366,6 +366,11 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Shubham Patil](https://github.com/shubhamdpatil)
+Place: Pune, India
+Coding Experience: C, python
+Email: shubhampatil.patil@gmail.com
+
 Name: [Lizard Morrow] (https://github.com/onlyasmalllizard) </br>
 Place: UK </br>
 Coding Experience: Ruby, Python, C, HTML/CSS </br>
