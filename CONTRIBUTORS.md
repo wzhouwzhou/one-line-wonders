@@ -439,3 +439,8 @@ Name: [Antonio](https://github.com/toluwalope19) </br>
 Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
+
+Name: [Roger Seekell](https://github.com/rpstester) <br />
+Place: Earth<br />
+Coding Experience: C++, C#, Java, PowerShell<br />
+Email: rogerseek1@gmail.com<br />
