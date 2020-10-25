@@ -445,6 +445,11 @@ Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
 
+Name: [Roger Seekell](https://github.com/rpstester) <br />
+Place: Earth<br />
+Coding Experience: C++, C#, Java, PowerShell<br />
+Email: rogerseek1@gmail.com<br />
+
 Name: [Abhay yadav](https://github.com/predator21x) </br>
 place: India. </br>
 Coding Experience: a newbie in this field. Programming language: C, python. </br>
