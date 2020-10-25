@@ -366,6 +366,11 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Shubham Patil](https://github.com/shubhamdpatil)
+Place: Pune, India
+Coding Experience: C, python
+Email: shubhampatil.patil@gmail.com
+
 Name: [Lizard Morrow] (https://github.com/onlyasmalllizard) </br>
 Place: UK </br>
 Coding Experience: Ruby, Python, C, HTML/CSS </br>
@@ -444,3 +449,19 @@ Name: [Roger Seekell](https://github.com/rpstester) <br />
 Place: Earth<br />
 Coding Experience: C++, C#, Java, PowerShell<br />
 Email: rogerseek1@gmail.com<br />
+
+Name: [Abhay yadav](https://github.com/predator21x) </br>
+place: India. </br>
+Coding Experience: a newbie in this field. Programming language: C, python. </br>
+Email: ry694356@gmail.com </br>
+
+Name: [Abhishek Singh](https://github.com/n6wbi6) </br>
+Place: India </br>
+Coding Experience: C and python. </br>
+Email: abhisheksingh.g07@gmail.com </br>
+
+Name: [Sazeim Saheem](https://github.com/ZombieChibiXD) </br>
+Place: Bali, Indonesia </br>
+Field Experience: System Administrator, Junior web developer, beta-tester, and debugger </br>
+Coding Experience: 3 years of learning & coding experience in C++, Java, Javascript/NodeJS, PHP, Vue.js, Laravel Framework, GoLang and python. </br>
+Email: chibisd10@gmail.com </br>
