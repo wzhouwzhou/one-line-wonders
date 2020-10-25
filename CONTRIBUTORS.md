@@ -465,3 +465,9 @@ Place: Bali, Indonesia </br>
 Field Experience: System Administrator, Junior web developer, beta-tester, and debugger </br>
 Coding Experience: 3 years of learning & coding experience in C++, Java, Javascript/NodeJS, PHP, Vue.js, Laravel Framework, GoLang and python. </br>
 Email: chibisd10@gmail.com </br>
+
+Name: [Oyvind Nilsen](https://github.com/turbosnute) </br>
+Place: Trondheim, Norway </br>
+Field Experience: System Admin </br>
+Coding Experience: 10 years of Powershell scripting. Also some experience with Java, Js, PHP, Python and C#. </br>
+Email: oyvind.nilsen@gmail.com </br>
