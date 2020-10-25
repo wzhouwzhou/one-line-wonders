@@ -253,3 +253,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 /.vs
+.Rproj.user
