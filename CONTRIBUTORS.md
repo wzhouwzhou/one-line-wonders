@@ -435,6 +435,11 @@ Place: Southampton, United Kingdom </br>
 Coding Experience: System administrator. Bash, Node and some C. </br>
 Email: mthomas@polybit.io </br>
 
+Name: [Ashutosh Patil](https://github.com/ashupatil96)</br>
+Place: India </br>
+Coding Experience: Pyhton Developer </br>
+Email: ashutosh.s.patil@outlook.com </br>
+
 Name: [Ankita Priya](https://github.com/AnkitaBIT) </br>
 Place: India </br>
 Coding Experience: A newbie in this felid. Programming Languages: C, HTML and Python. </br>
