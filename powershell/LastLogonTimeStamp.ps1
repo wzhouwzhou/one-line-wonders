@@ -1,0 +1,1 @@
+Get-ADComputer -SearchBase "OU=Computers,OU=Place,DC=Company,DC=loc" -Filter {LastLogonTimestamp -lt $datecutoff} -Properties Name,LastLogonTimeStamp |Select Name,@{N='LastLogonTimeStamp'; E={[DateTime]::FromFileTime($_.LastLogonTimeStamp)}}
