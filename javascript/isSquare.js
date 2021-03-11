@@ -1,1 +1,1 @@
-const isSquare = (a, b, c, d) => a * 3 === (b + c + d) ? console.log('square') : console.log('not a square');
+const isSquare = (a, b, c, d) => a === b && a === c && a === d ? console.log('square') : console.log('not a square');
