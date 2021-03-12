@@ -1,1 +1,1 @@
-const perfect_square = n => !(n % Math.sqrt(n)) ? 'Square' : 'Not a perfect square';
+const perfect_square = n => n % Math.sqrt(n) ? 'Not a perfect square' : 'Square';
