@@ -445,6 +445,11 @@ Place: Nigeria </br>
 Coding Experience: Python and javaScript. </br>
 Email: tolubarca01@gmail.com </br>
 
+Name: [Roger Seekell](https://github.com/rpstester) <br />
+Place: Earth<br />
+Coding Experience: C++, C#, Java, PowerShell<br />
+Email: rogerseek1@gmail.com<br />
+
 Name: [Abhay yadav](https://github.com/predator21x) </br>
 place: India. </br>
 Coding Experience: a newbie in this field. Programming language: C, python. </br>
@@ -460,8 +465,13 @@ Place: Singapore
 Coding Experience: Java
 Email: isak_r@yahoo.com
 
-Name: [Sazeim Saheem](https://github.com/ZombieChibiXD) </br>
+Name: [Zombie Chibi XD](https://github.com/ZombieChibiXD) </br>
 Place: Bali, Indonesia </br>
 Field Experience: System Administrator, Junior web developer, beta-tester, and debugger </br>
 Coding Experience: 3 years of learning & coding experience in C++, Java, Javascript/NodeJS, PHP, Vue.js, Laravel Framework, GoLang and python. </br>
 Email: chibisd10@gmail.com </br>
+
+Name: [Jay](https://github.com/TacticalTechJay) </br>
+Place: Milky Way Galaxy </br>
+Coding Experience: Semi-noob in JS. </br>
+Email: tacticaltechjay@gmail.com </br>
