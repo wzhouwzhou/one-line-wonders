@@ -1,0 +1,1 @@
+const empty = arr => arr.length = 0;
