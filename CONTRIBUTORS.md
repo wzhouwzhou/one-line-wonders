@@ -486,3 +486,8 @@ Name: [David](https://github.com/Xander1233) </br>
 Place: Frankfurt, Germany </br>
 Coding Experience: TS, JS/NodeJS, Java, C, C++, C#, Assembly, React
 Email: david.neidhart@gmx.net </br>
+
+Name: [antoooks](https://github.com/antoooks) </br>
+Place: Indonesia / Singapore </br>
+Coding Experience: JS, TS, PHP, Java, Go. Specialize in CI/CD, Cloud Architecture, and Automation.
+Email: antokurnianto82@gmail.com </br>
