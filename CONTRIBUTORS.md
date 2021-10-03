@@ -366,6 +366,11 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Shubham Patil](https://github.com/shubhamdpatil)
+Place: Pune, India
+Coding Experience: C, python
+Email: shubhampatil.patil@gmail.com
+
 Name: [Lizard Morrow] (https://github.com/onlyasmalllizard) </br>
 Place: UK </br>
 Coding Experience: Ruby, Python, C, HTML/CSS </br>
@@ -444,3 +449,45 @@ Name:[Caden Mccauley](https://github.com/DiscoTiger) </br>
 Place: United States </br>
 Coding Experience: CS Student primarily focusing on Javascript and C++
 Email: caden.n.mccauley@gmail.com </br>
+
+Name: [Roger Seekell](https://github.com/rpstester) <br />
+Place: Earth<br />
+Coding Experience: C++, C#, Java, PowerShell<br />
+Email: rogerseek1@gmail.com<br />
+
+Name: [Abhay yadav](https://github.com/predator21x) </br>
+place: India. </br>
+Coding Experience: a newbie in this field. Programming language: C, python. </br>
+Email: ry694356@gmail.com </br>
+
+Name: [Abhishek Singh](https://github.com/n6wbi6) </br>
+Place: India </br>
+Coding Experience: C and python. </br>
+Email: abhisheksingh.g07@gmail.com </br>
+
+Name: [Isak Rabin](https://github.com/sgirabin)
+Place: Singapore
+Coding Experience: Java
+Email: isak_r@yahoo.com
+
+Name: [Zombie Chibi XD](https://github.com/ZombieChibiXD) </br>
+Place: Bali, Indonesia </br>
+Field Experience: System Administrator, Junior web developer, beta-tester, and debugger </br>
+Coding Experience: 3 years of learning & coding experience in C++, Java, Javascript/NodeJS, PHP, Vue.js, Laravel Framework, GoLang and python. </br>
+Email: chibisd10@gmail.com </br>
+
+Name: [Oyvind Nilsen](https://github.com/turbosnute) </br>
+Place: Trondheim, Norway </br>
+Field Experience: System Admin </br>
+Coding Experience: 10 years of Powershell scripting. Also some experience with Java, Js, PHP, Python and C#. </br>
+Email: oyvind.nilsen@gmail.com </br>
+
+Name: [Jay](https://github.com/TacticalTechJay) </br>
+Place: Milky Way Galaxy </br>
+Coding Experience: Semi-noob in JS. </br>
+Email: tacticaltechjay@gmail.com </br>
+
+Name: [David](https://github.com/Xander1233) </br>
+Place: Frankfurt, Germany </br>
+Coding Experience: TS, JS/NodeJS, Java, C, C++, C#, Assembly, React
+Email: david.neidhart@gmx.net </br>
