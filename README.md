@@ -8,7 +8,7 @@ Have some fun with coding every once in a while, and see how you can abuse the s
 ### Contributing
 Anyone can contribute to this repo by opening a PR, your contribution will be open-source on Github. Don't know what to make? Try coding something that logs "Hello, world!" to the console!
 
-### Hacktoberfest 2019
+### Hacktoberfest 2021
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) together with a diverse community of developers from around the world!
 
 ### PRs not marked as spam will be counted towards **4** PRs in the month of October for your **free Hacktoberfest T-Shirt!**
