@@ -475,3 +475,8 @@ Name: [Jay](https://github.com/TacticalTechJay) </br>
 Place: Milky Way Galaxy </br>
 Coding Experience: Semi-noob in JS. </br>
 Email: tacticaltechjay@gmail.com </br>
+
+Name: [David](https://github.com/Xander1233) </br>
+Place: Frankfurt, Germany </br>
+Coding Experience: TS, JS/NodeJS, Java, C, C++, C#, Assembly, React
+Email: david.neidhart@gmx.net </br>
