@@ -1,0 +1,1 @@
+const deepFlat = arr => arr.flat(Infinity);
