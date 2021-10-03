@@ -369,3 +369,129 @@ Email: benjamin@ericsart.com
 Name: [Herb Wolfe](http://github.com/hwolfe71)<br />
 Coding Experience: Java, C, Visual Foxpro<br />
 Email: hwolfe71@gmail.com<br />
+
+Name: [Shubham Patil](https://github.com/shubhamdpatil)
+Place: Pune, India
+Coding Experience: C, python
+Email: shubhampatil.patil@gmail.com
+
+Name: [Lizard Morrow] (https://github.com/onlyasmalllizard) </br>
+Place: UK </br>
+Coding Experience: Ruby, Python, C, HTML/CSS </br>
+
+Name: [UsmanAkinbiyi](https://github.com/ThaLeprechaun)</br>
+Place: Lagos, Nigeria</br>
+Coding Experience: Javascript and python</br>
+Email: oakinbiyiusman@gmail.com</br>
+
+Name: [Ojaswy Akella](https://github.com/Ojaswy)</br>
+Place: Hyderabad, India</br>
+Coding Experience: Data Scientist, Competetive Coder, HTML, CSS, Javascript, Java, Python, C, R, MATLAB</br>
+Portfolio: [Here](https://ojaswy.github.io)</br>
+
+Name: [Jaako Andes](https://github.com/jaakofalltrade)<br>
+Place: Sorsogon City, Philippines </br>
+Coding Experience: React JS, Node JS, Javascript, jQuery, C and Python. Junior Web Developer. <br>
+Email: jaako.andes@bicol-u.edu.ph<br>
+
+Name:  [BrianHopper](https://github.com/BubbaBeans)<br>
+Place:  Redding, California, USA
+Coding Experience: Hobbyist programmer, various languages since 1982.<br>
+Programming Languages: Some C++, some Python 2/3, VB.net... anyone remember Pilot?
+Email: brian.hopper@transdev.com
+
+Name [Henning-K](https://github.com/Henning-K)<br>
+Place: Germany
+Coding Experience: Hobbyist, Rust, Python3, one cargo submodule<br>
+Programming Languages: Rust, Python 3, Java, Javascript<br>
+Email: N/A
+
+Name: [Ben Carpenter](https://github.com/jagwiredev/) </br>
+Place: Australia </br>
+Coding Experience: Computer Science Student. Programming Languages: C++ and Full-Stack Web Development. </br>
+Email: benwcarpenter0@gmail.com </br>
+
+Name: [N Balgopal Patro](https://github.com/balgopal123)</br>
+Place: Berhampur , Odisha , India</br>
+Coding Experience: Javascript, HTML, CSS, Java, Python, C++ ,C ,Firebase ,Android </br>
+Email: n.balgopalpatra@gmail.com</br>
+
+Name: [icedream](https://github.com/icedream)<br>
+Coding Experience: Writing IRC bots, web apps, network utilities, Docker stacks, pipelines for Jenkins/GitLab CI and shell scripts. <br>
+Programming Languages: Go, JavaScript, TypeScript, CoffeeScript, IcedCoffeeScript, C#, VB.NET, Bash, (CSS, HTML)<br>
+Email: icedream@icedream.pw<br>
+
+Name: [Thanapat Bhunnachet](https://github.com/tnptop)<br/>
+Place: Thailand<br/>
+Coding Experience: Software Engineer, mostly work on web technologies (JavaScript, Node.js, Python)<br/>
+Email: me@tnptop.com
+
+Name: [Subham Sahu](https://github.com/subhamX/)<br>
+Coding Experience: Full Stack Web Developer <br>
+Programming Languages: C++ 1/2, Python 1/2, JavaScript 3/4<br>
+Email: subham.iitrpr@gmail.com
+
+Name: [Jurica](https://github.com/juricav)<br>
+Coding Experience: Dynamics365 developer <br>
+
+Name: [pbootly](https://github.com/pbootly)</br>
+Place: Southampton, United Kingdom </br>
+Coding Experience: System administrator. Bash, Node and some C. </br>
+Email: mthomas@polybit.io </br>
+
+Name: [Ankita Priya](https://github.com/AnkitaBIT) </br>
+Place: India </br>
+Coding Experience: A newbie in this felid. Programming Languages: C, HTML and Python. </br>
+Email: ankitapriya2011@gmail.com </br>  
+
+Name: [Antonio](https://github.com/toluwalope19) </br>
+Place: Nigeria </br>
+Coding Experience: Python and javaScript. </br>
+Email: tolubarca01@gmail.com </br>
+
+Name: [Roger Seekell](https://github.com/rpstester) <br />
+Place: Earth<br />
+Coding Experience: C++, C#, Java, PowerShell<br />
+Email: rogerseek1@gmail.com<br />
+
+Name: [Abhay yadav](https://github.com/predator21x) </br>
+place: India. </br>
+Coding Experience: a newbie in this field. Programming language: C, python. </br>
+Email: ry694356@gmail.com </br>
+
+Name: [Abhishek Singh](https://github.com/n6wbi6) </br>
+Place: India </br>
+Coding Experience: C and python. </br>
+Email: abhisheksingh.g07@gmail.com </br>
+
+Name: [Isak Rabin](https://github.com/sgirabin)
+Place: Singapore
+Coding Experience: Java
+Email: isak_r@yahoo.com
+
+Name: [Zombie Chibi XD](https://github.com/ZombieChibiXD) </br>
+Place: Bali, Indonesia </br>
+Field Experience: System Administrator, Junior web developer, beta-tester, and debugger </br>
+Coding Experience: 3 years of learning & coding experience in C++, Java, Javascript/NodeJS, PHP, Vue.js, Laravel Framework, GoLang and python. </br>
+Email: chibisd10@gmail.com </br>
+
+Name: [Oyvind Nilsen](https://github.com/turbosnute) </br>
+Place: Trondheim, Norway </br>
+Field Experience: System Admin </br>
+Coding Experience: 10 years of Powershell scripting. Also some experience with Java, Js, PHP, Python and C#. </br>
+Email: oyvind.nilsen@gmail.com </br>
+
+Name: [Jay](https://github.com/TacticalTechJay) </br>
+Place: Milky Way Galaxy </br>
+Coding Experience: Semi-noob in JS. </br>
+Email: tacticaltechjay@gmail.com </br>
+
+Name: [David](https://github.com/Xander1233) </br>
+Place: Frankfurt, Germany </br>
+Coding Experience: TS, JS/NodeJS, Java, C, C++, C#, Assembly, React
+Email: david.neidhart@gmx.net </br>
+
+Name: [antoooks](https://github.com/antoooks) </br>
+Place: Indonesia / Singapore </br>
+Coding Experience: JS, TS, PHP, Java, Go. Specialize in CI/CD, Cloud Architecture, and Automation.
+Email: antokurnianto82@gmail.com </br>

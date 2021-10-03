@@ -1,0 +1,1 @@
+awk -F '"' '{print $6}' access.log | sort -nr | uniq -c | sort -nr | head -n10
