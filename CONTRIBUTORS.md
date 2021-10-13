@@ -491,3 +491,8 @@ Name: [antoooks](https://github.com/antoooks) </br>
 Place: Indonesia / Singapore </br>
 Coding Experience: JS, TS, PHP, Java, Go. Specialize in CI/CD, Cloud Architecture, and Automation.
 Email: antokurnianto82@gmail.com </br>
+
+Name: [Wesley Deal](https://github.com/wesleydeal) </br>
+Place: Atlanta Area, Georgia, US </br>
+Coding Experience: mostly Python and Powershell. limited experience with Java and other languages. </br>
+Email: wesleydeal8@gmail.com </br>
