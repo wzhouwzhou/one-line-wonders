@@ -366,6 +366,10 @@ Coding Experience: Discord Bot Developer (Java) + misc. wrappers. <br>
 Programming Languages: Python 2/3, Java 8<br>
 Email: benjamin@ericsart.com
 
+Name: [Herb Wolfe](http://github.com/hwolfe71)<br />
+Coding Experience: Java, C, Visual Foxpro<br />
+Email: hwolfe71@gmail.com<br />
+
 Name: [Shubham Patil](https://github.com/shubhamdpatil)
 Place: Pune, India
 Coding Experience: C, python
