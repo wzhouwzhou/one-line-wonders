@@ -491,3 +491,8 @@ Name: [antoooks](https://github.com/antoooks) </br>
 Place: Indonesia / Singapore </br>
 Coding Experience: JS, TS, PHP, Java, Go. Specialize in CI/CD, Cloud Architecture, and Automation.
 Email: antokurnianto82@gmail.com </br>
+
+Name: [Powell](https://github.com/poweller/) </br>
+Place: Nagoya, Japan </br>
+Coding Experience: Python, Noob in C++ </br>
+Email: ch3ch2oh.jiro@gmail.com </br>
