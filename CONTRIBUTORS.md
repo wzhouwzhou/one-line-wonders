@@ -491,3 +491,9 @@ Name: [antoooks](https://github.com/antoooks) </br>
 Place: Indonesia / Singapore </br>
 Coding Experience: JS, TS, PHP, Java, Go. Specialize in CI/CD, Cloud Architecture, and Automation.
 Email: antokurnianto82@gmail.com </br>
+
+Name: [Arjun Khunti](https://github.com/ArjunKhunti) </br>
+Place: India </br>
+Field Experience: Software Engineer </br>
+Coding Experience: Js, React, Python and Dart, Good in CI/CD and Automation. </br>
+Email: arjunvkhunti@gmail.com </br>
