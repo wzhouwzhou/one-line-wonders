@@ -491,3 +491,8 @@ Name: [antoooks](https://github.com/antoooks) </br>
 Place: Indonesia / Singapore </br>
 Coding Experience: JS, TS, PHP, Java, Go. Specialize in CI/CD, Cloud Architecture, and Automation.
 Email: antokurnianto82@gmail.com </br>
+
+Name: [shaxi1](https://github.com/shaxi1) </br>
+Place: Poland </br>
+Coding Experience: C, Cpp, Python, JS </br>
+
