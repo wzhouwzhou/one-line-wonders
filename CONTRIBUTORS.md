@@ -470,3 +470,8 @@ Name: [Jay](https://github.com/TacticalTechJay) </br>
 Place: Milky Way Galaxy </br>
 Coding Experience: Semi-noob in JS. </br>
 Email: tacticaltechjay@gmail.com </br>
+
+Name: [GaslightGod](https://github.com/GaslightGod) </br>
+Place: Heart and soul of all Americans </br>
+Coding Experience: Sophomore @ JS, Freshman @ GO, PY. </br>
+Email: GaslightGod@gmail.com </br>
